@@ -1,0 +1,88 @@
+\XeTeXlinebreaklocale "zh"
+%\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+\geometry{top=25mm,bottom=20mm,left=30mm,right=30mm}%调整正文上下边距
+\chead{\zhongsong 华中科技大学本科生毕业设计（论文）开题报告}                                                                                                
+\renewcommand{\headrulewidth}{1pt}  %页眉线宽，设为0可以去页眉线
+\lhead{}%页眉左边
+\rhead{}%页眉右边
+%\oddsidemargin=11mm
+%\evensidemargin=5mm
+\setCJKmainfont{SimSun}
+\setCJKmonofont{SimSun}
+\setmainfont{Times New Roman}
+\fontsize{10.5pt}{15.7pt}\selectfont
+\graphicspath{{Titlepage/}{Sect1/}{Sect2/}{Sect3/}{Sect4/}}
+%\numberwithin{equation}{section}
+
+\pagestyle{fancy}
+%-------调整表格线条粗细-------
+%\newcolumntype{L}[1]{>{\vspace{0.5em}\begin{minipage}{#1}\raggedright\let\newline\\
+%\arraybackslash\hspace{0pt}}m{#1}<{\end{minipage}\vspace{0.5em}}}
+%\newcolumntype{R}[1]{>{\vspace{0.5em}\begin{minipage}{#1}\raggedleft\let\newline\\
+%\arraybackslash\hspace{0pt}}m{#1}<{\end{minipage}\vspace{0.5em}}}
+%\newcolumntype{C}[1]{>{\vspace{0.5em}\begin{minipage}{#1}\centering\let\newline\\
+%\arraybackslash\hspace{0pt}}m{#1}<{\end{minipage}\vspace{0.5em}}}
+%\makeatletter
+%\def\hlinewd#1{%
+%  \noalign{\ifnum0=`}\fi\hrule \@height #1 \futurelet
+%   \reserved@a\@xhline}
+%\makeatother
+%--------------------------------
+
+% \def\degree{${}^{\circ}$}
+% \def\ee{\mathrm{e}}%自然对数底数
+% \def\ii{\mathrm{i}}%复数单位
+% \def\dd{\mathrm{d}}
+% \def\pp{\partial}
+% \def\z{\left}
+% \def\y{\right}
+% \def\ol{\overline}
+% \def\ora{$\overrightarrow{}$}
+
+%----------字体相关----------
+\setCJKfamilyfont{song}{SimSun}
+\newcommand{\song}{\CJKfamily{song}} 
+\setCJKfamilyfont{hei}{SimHei}
+\newcommand{\heiti}{\CJKfamily{hei}}
+\setCJKfamilyfont{zs}{STZhongsong}
+\newcommand{\zhongsong}{\CJKfamily{zs}}
+\setCJKfamilyfont{kai}{KaiTi}
+\newcommand{\kaishu}{\CJKfamily{kai}} 
+\newfontfamily\Rom{Times New Roman}
+\setlength{\baselineskip}{0em}
+\newcommand{\chuhao}{\fontsize{42pt}{\baselineskip}\selectfont}     %初号  
+\newcommand{\xiaochuhao}{\fontsize{36pt}{\baselineskip}\selectfont} %小初号  
+\newcommand{\yihao}{\fontsize{28pt}{\baselineskip}\selectfont}      %一号  
+\newcommand{\erhao}{\fontsize{21pt}{\baselineskip}\selectfont}      %二号  
+\newcommand{\xiaoerhao}{\fontsize{18pt}{\baselineskip}\selectfont}  %小二号  
+\newcommand{\sanhao}{\fontsize{15.75pt}{\baselineskip}\selectfont}  %三号  
+\newcommand{\sihao}{\fontsize{14pt}{18pt}\selectfont}%     四号  
+\newcommand{\xiaosihao}{\fontsize{12pt}{18pt}\selectfont}  %小四号  
+\newcommand{\wuhao}{\fontsize{10.5pt}{15.7pt}\selectfont}    %五号  
+\newcommand{\xiaowuhao}{\fontsize{9pt}{13pt}\selectfont}   %小五号  
+\newcommand{\liuhao}{\fontsize{7.875pt}{\baselineskip}\selectfont}  %六号  
+\newcommand{\qihao}{\fontsize{5.25pt}{\baselineskip}\selectfont}    %七
+%\newcommand{\bb}[1]{\raisebox{-2ex}[0pt][0pt]{\shortstack{#1}}}% 表格中向下移动文字2ex
+\renewcommand{\abstractname}{\xiaoerhao \heiti \textbf{摘~~要}}
+\renewcommand{\contentsname}{\xiaoerhao \heiti \textbf{目~~录}}
+\renewcommand{\figurename}{\wuhao\kaishu 图}
+\renewcommand{\tablename}{\wuhao\kaishu 表}
+\renewcommand\refname{\sihao \song \textbf{参考文献}}
+%\renewcommand{\thesubsection}{\Alph{subsection}}
+\titleformat{\section}{\sihao \song \bf}{\thesection}{1em}{}
+\titleformat{\subsection}{\xiaosihao \song \bf}{\thesubsection}{1em}{}
+%\MakeRobust{\overrightarrow}%解决caption中使用向量的问题配合命令\usepackage{fixltx2e}
+%\MakeRobust{\vv}
+%
+%\makeatletter
+\def\fnum@figure#1{\figurename\nobreakspace\thefigure\hspace{1em}}% 去掉图后面的冒号并加空白空1em
+\def\fnum@table#1{\tablename\nobreakspace\thetable\hspace{1em}}% 去掉表后面的冒号并加空白1em
+%\makeatother
+
+\hypersetup{colorlinks=false,pdfborder=0 0 0} 
+%\setcounter{tocdepth}{2}
+
+%\setlength{\droptitle}{-4em}     % Eliminate the default vertical space
+%\addtolength{\droptitle}{-20mm}
+
+

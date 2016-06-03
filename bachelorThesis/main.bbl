@@ -1,0 +1,174 @@
+\begin{thebibliography}{10}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{idc_research_inc_smartphone_????}
+\bibauthor{{IDC Research Inc}}\@. \bibtitle{Smartphone {OS} {Market} {Share},
+  2015 {Q}2}\bibmark{[EB/OL]}\@. \@.
+  \newline\url{http://www.idc.com/prodserv/smartphone-os-market-share.jsp#}\@.
+
+\bibitem{statista_inc_android_????}
+\bibauthor{{Statista Inc}}\@. \bibtitle{Android {Version} {Market} {Share}
+  2015}\bibmark{[EB/OL]}\@. \@.
+  \newline\url{http://www.statista.com/statistics/271774/share-of-android-platforms-on-mobile-devices-with-android-os/}\@.
+
+\bibitem{yaghmour_embedded_2013}
+\bibauthor{YAGHMOUR K}\@.
+  \bibtitle{{构建嵌入式Android系统}}\bibmark{[M]}\@.
+  \bibtranslator{秦云川\@, 肖淇\@, ~trans} //\thinspace{}\@.
+  \bibaddress{Sebastopol, CA}\thinspace{}\textnormal{:
+  }\bibpublisher{中国电力出版社}\@,
+  \bibyear{2013}\thinspace{}\textnormal{:
+  }\bibpages{33\thinspace{}\textnormal{--}\thinspace{}83}\@.
+
+\bibitem{moreno_android_2012}
+\bibauthor{MORENO M~A}\@. \bibtitle{An {Android} hosted {Bluetooth} {ECG}
+  monitoring device}\bibmark{[D]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibschool{University of Texas
+  at Austin}\@, \bibyear{2012}\@.
+
+\bibitem{_zhenduanxue_2013}
+\bibauthor{万学红\@, 卢雪峰}\@. \bibtitle{诊断学}\bibmark{[M]}
+  //\thinspace{}\@. \bibedition{\mbox{8th~ed}}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{人民卫生出版社}\@,
+  \bibyear{2013}\thinspace{}\textnormal{:
+  }\bibpages{484\thinspace{}\textnormal{--}\thinspace{}527}\@.
+
+\bibitem{tang_android_2015}
+\bibauthor{TANG X\@, HU C\@, LIN W}\@. \bibtitle{Android {Bluetooth}
+  multi-source signal acquisition for multi-parameter health monitoring
+  devices}\bibmark{[C/OL]} //\thinspace{}\bibbooktitle{Information and
+  {Automation}, 2015 {IEEE} {International} {Conference} on}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{IEEE}\@,
+  \bibyear{2015}\thinspace{}\textnormal{:
+  }\bibpages{1790\thinspace{}\textnormal{--}\thinspace{}1794}\@.
+  \newline\url{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=7279577}\@.
+
+\bibitem{lou_wireless_2013}
+\bibauthor{LOU D\@, CHEN X\@, ZHAO Z, et~al}\@. \bibtitle{A {Wireless} {Health}
+  {Monitoring} {System} based on {Android} {Operating}
+  {System}}\bibmark{[J/OL]}\@. \bibjournal{\{IERI\} Procedia}\@,
+  \bibyear{2013}\@, \bibvolume{4}\thinspace{}\textnormal{: }\bibpages{208
+  \thinspace{}\textnormal{--}\thinspace{} 215}\@.
+  \newline\url{http://www.sciencedirect.com/science/article/pii/S2212667813000336}\@.
+
+\bibitem{guo_ecg_2013}
+\bibauthor{GUO X\@, DUAN X\@, GAO H, et~al}\@. \bibtitle{An {ECG} {Monitoring}
+  and {Alarming} {System} {Based} {On} {Android} {Smart}
+  {Phone}}\bibmark{[J/OL]}\@. \bibjournal{Communications and Network}\@,
+  \bibyear{2013}\@, \bibvolume{05}\bibnumber{(03)}\thinspace{}\textnormal{:
+  }\bibpages{584\thinspace{}\textnormal{--}\thinspace{}589}\@.
+  \newline\url{http://www.scirp.org/journal/PaperDownload.aspx?DOI=10.4236/cn.2013.53B2105}\@.
+
+\bibitem{chudacek_simple_2011}
+\bibauthor{CHUDáčEK V\@, ZACH L\@, KUžíLEK J, et~al}\@. \bibtitle{Simple
+  scoring system for {ECG} quality assessment on {Android}
+  platform}\bibmark{[C]} //\thinspace{}\bibbooktitle{Computing in {Cardiology},
+  2011}\@. \bibyear{2011}\thinspace{}\textnormal{:
+  }\bibpages{449\thinspace{}\textnormal{--}\thinspace{}451}\@.
+
+\bibitem{satija_simple_2015}
+\bibauthor{SATIJA U\@, RAMKUMAR B\@, MANIKANDAN M~S}\@. \bibtitle{A simple
+  method for detection and classification of {ECG} noises for wearable {ECG}
+  monitoring devices}\bibmark{[C/OL]} //\thinspace{}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{IEEE}\@,
+  \bibyear{2015}\thinspace{}\textnormal{:
+  }\bibpages{164\thinspace{}\textnormal{--}\thinspace{}169}\@.
+  \newline\url{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=7095425}\@.
+
+\bibitem{oster_open_2013}
+\bibauthor{OSTER J\@, BEHAR J\@, COLLOCA R, et~al}\@. \bibtitle{Open source
+  {Java}-based {ECG} analysis software and {Android} app for {Atrial}
+  {Fibrillation} screening}\bibmark{[C]} //\thinspace{}\bibbooktitle{Computing
+  in {Cardiology} {Conference} ({CinC}), 2013}\@.
+  \bibyear{2013}\thinspace{}\textnormal{:
+  }\bibpages{731\thinspace{}\textnormal{--}\thinspace{}734}\@.
+
+\bibitem{bluetooth_sig_inc_bluetooth_????}
+\bibauthor{{Bluetooth SIG}}\@. \bibtitle{Top Things to Know About Bluetooth
+  Technology}\bibmark{[EB/OL]}\@. \@.
+  \newline\url{https://www.bluetooth.com/what-is-bluetooth-technology/bluetooth-technology-basics}\@.
+
+\bibitem{riku_mettsla_serial_2012}
+\bibauthor{{Bluetooth SIG}}\@. \bibbooktitle{Serial {Port}
+  {Profile}}\bibmark{[K/OL]}\@. \bibyear{2012}\@.
+  \newline\url{https://www.bluetooth.org/docman/handlers/DownloadDoc.ashx?doc_id=260866&vId=290097&_ga=1.15428981.2109710189.1463300620}\@.
+
+\bibitem{google_inc_bluetooth|android_????}
+\bibauthor{{Google Inc}}\@. \bibtitle{Bluetooth{\textbar}{Android}
+  {Developers}}\bibmark{[EB/OL]}\@. \@.
+  \newline\url{http://developer.android.com/guide/topics/connectivity/bluetooth.html}\@.
+
+\bibitem{the_sqlite_development_team_about_????}
+\bibauthor{{The SQLite Development Team}}\@. \bibtitle{About
+  {SQLite}}\bibmark{[EB/OL]}\@. \@.
+  \newline\url{http://www.sqlite.org/about.html}\@.
+
+\bibitem{_4.0android_2013}
+\bibauthor{范晨灿}\@.
+  \bibtitle{基于蓝牙4.0{传输的Android手机心电监护系统}}\bibmark{[D]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibschool{浙江大学}\@,
+  \bibyear{2013}\@.
+
+\bibitem{clifford_signal_2002}
+\bibauthor{CLIFFORD G}\@. \bibtitle{Signal {Processing} {Methods} for {Heart}
+  {Rate} {Variability}}\bibmark{[D/OL]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibschool{University of
+  Oxford}\@, \bibyear{2002}\@.
+  \newline\url{http://web.mit.edu/~gari/www/papers/GDCliffordThesis.pdf}\@.
+
+\bibitem{sadhukhan_r-peak_2012}
+\bibauthor{SADHUKHAN D\@, MITRA M}\@. \bibtitle{R-{Peak} {Detection}
+  {Algorithm} for {Ecg} using {Double} {Difference} {And} {RR} {Interval}
+  {Processing}}\bibmark{[J/OL]}\@. \bibjournal{Procedia Technology}\@,
+  \bibyear{2012}\@, \bibvolume{4}\thinspace{}\textnormal{:
+  }\bibpages{873\thinspace{}\textnormal{--}\thinspace{}877}\@.
+  \newline\url{http://linkinghub.elsevier.com/retrieve/pii/S2212017312004227}\@.
+
+\bibitem{goldberger_physiobank_2000}
+\bibauthor{GOLDBERGER A~L\@, AMARAL L~A~N\@, GLASS L, et~al}\@.
+  \bibtitle{{PhysioBank}, {PhysioToolkit}, and {PhysioNet}: {Components} of a
+  {New} {Research} {Resource} for {Complex} {Physiologic}
+  {Signals}}\bibmark{[J/OL]}\@. \bibjournal{Circulation}\@, \bibyear{2000}\@,
+  \bibvolume{101}\bibnumber{(23)}\thinspace{}\textnormal{:
+  }\bibpages{215\thinspace{}\textnormal{--}\thinspace{}220}\@.
+  \newline\url{http://circ.ahajournals.org/content/101/23/e215.abstract}\@.
+
+\bibitem{moody_impact_2001}
+\bibauthor{MOODY G~B\@, MARK R~G}\@. \bibtitle{The impact of the {MIT}-{BIH}
+  {Arrhythmia} {Database}}\bibmark{[J/OL]}\@. \bibjournal{IEEE Engineering in
+  Medicine and Biology Magazine}\@, \bibyear{2001}\@,
+  \bibvolume{20}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{45\thinspace{}\textnormal{--}\thinspace{}50}\@.
+  \newline\url{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=932724}\@.
+
+\bibitem{department_of_statistics_online_programs_sensitivity_????}
+\bibauthor{{Department of Statistics Online Programs}}\@.
+  \bibtitle{Sensitivity, {Specificity}, {Positive} {Predictive} {Value}, and
+  {Negative} {Predictive} {Value}}\bibmark{[EB/OL]}\@. \@.
+  \newline\url{https://onlinecourses.science.psu.edu/stat507/node/71}\@.
+
+\end{thebibliography}

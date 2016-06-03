@@ -1,0 +1,15 @@
+\BOOKMARK [2][]{Outline0.1}{研究背景}{}% 1
+\BOOKMARK [2][]{Outline0.2}{研究成果}{}% 2
+\BOOKMARK [3][]{Outline0.2.1.7}{显示方法的改进}{Outline0.2}% 3
+\BOOKMARK [3][]{Outline0.2.2.10}{R峰检测算法}{Outline0.2}% 4
+\BOOKMARK [2][]{Outline0.3}{应用实现}{}% 5
+\BOOKMARK [3][]{Outline0.3.1.12}{显示模块}{Outline0.3}% 6
+\BOOKMARK [3][]{Outline0.3.2.16}{蓝牙传输模块}{Outline0.3}% 7
+\BOOKMARK [3][]{Outline0.3.3.17}{数据库管理模块}{Outline0.3}% 8
+\BOOKMARK [3][]{Outline0.3.4.19}{数据分析模块}{Outline0.3}% 9
+\BOOKMARK [2][]{Outline0.4}{算法实现}{}% 10
+\BOOKMARK [3][]{Outline0.4.1.21}{滑动窗口最大值算法}{Outline0.4}% 11
+\BOOKMARK [3][]{Outline0.4.2.26}{算法的Java实现}{Outline0.4}% 12
+\BOOKMARK [2][]{Outline0.5}{测试与结论}{}% 13
+\BOOKMARK [3][]{Outline0.5.1.28}{对R峰检测算法的测试}{Outline0.5}% 14
+\BOOKMARK [3][]{Outline0.5.2.29}{应用程序的特点}{Outline0.5}% 15

@@ -1,0 +1,3168 @@
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2016.4.28)  3 JUN 2016 11:48
+entering extended mode
+**beamer.tex
+(H:\bachelorDocumentPackageForHust\bachelorBeamer\beamer.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(C:\CTEX\UserData\tex\latex\beamer\base\beamer.cls
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbasercs.sty
+Package: beamerbasercs 2015/03/08 (rcs-revision 368aa9ba9d38)
+)
+Document Class: beamer 2015/01/05 3.36 A class for typesetting presentations (r
+cs-revision 8a39122e1f63)
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbasemodes.sty
+Package: beamerbasemodes 2013/09/03 (rcs-revision 768f2d98ca64)
+\beamer@tempbox=\box26
+\beamer@tempcount=\count80
+\c@beamerpauses=\count81
+
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbasedecode.sty
+Package: beamerbasedecode 2010/05/01 (rcs-revision efa082c6111d)
+\beamer@slideinframe=\count82
+\beamer@minimum=\count83
+)
+\beamer@commentbox=\box27
+\beamer@modecount=\count84
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+\headheight=\dimen102
+\headdp=\dimen103
+\footheight=\dimen104
+\sidebarheight=\dimen105
+\beamer@tempdim=\dimen106
+\beamer@finalheight=\dimen107
+\beamer@animht=\dimen108
+\beamer@animdp=\dimen109
+\beamer@animwd=\dimen110
+\beamer@leftmargin=\dimen111
+\beamer@rightmargin=\dimen112
+\beamer@leftsidebar=\dimen113
+\beamer@rightsidebar=\dimen114
+\beamer@boxsize=\dimen115
+\beamer@vboxoffset=\dimen116
+\beamer@descdefault=\dimen117
+\beamer@descriptionwidth=\dimen118
+\beamer@lastskip=\skip41
+\beamer@areabox=\box28
+\beamer@animcurrent=\box29
+\beamer@animshowbox=\box30
+\beamer@sectionbox=\box31
+\beamer@logobox=\box32
+\beamer@linebox=\box33
+\beamer@sectioncount=\count85
+\beamer@subsubsectionmax=\count86
+\beamer@subsectionmax=\count87
+\beamer@sectionmax=\count88
+\beamer@totalheads=\count89
+\beamer@headcounter=\count90
+\beamer@partstartpage=\count91
+\beamer@sectionstartpage=\count92
+\beamer@subsectionstartpage=\count93
+\beamer@animationtempa=\count94
+\beamer@animationtempb=\count95
+\beamer@xpos=\count96
+\beamer@ypos=\count97
+\beamer@showpartnumber=\count98
+\beamer@currentsubsection=\count99
+\beamer@coveringdepth=\count100
+\beamer@sectionadjust=\count101
+\beamer@tocsectionnumber=\count102
+
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbaseoptions.sty
+Package: beamerbaseoptions 2013/03/10 (rcs-revision 47431932db0d)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+
+(C:\CTEX\MiKTeX\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(C:\CTEX\MiKTeX\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count103
+\Gm@cntv=\count104
+\c@Gm@tempcnt=\count105
+\Gm@bindingoffset=\dimen119
+\Gm@wd@mp=\dimen120
+\Gm@odd@mp=\dimen121
+\Gm@even@mp=\dimen122
+\Gm@layoutwidth=\dimen123
+\Gm@layoutheight=\dimen124
+\Gm@layouthoffset=\dimen125
+\Gm@layoutvoffset=\dimen126
+\Gm@dimlist=\toks15
+
+(C:\CTEX\MiKTeX\tex\xelatex\xetexconfig\geometry.cfg))
+(C:\CTEX\MiKTeX\tex\latex\base\fleqn.clo
+File: fleqn.clo 1998/08/17 v1.1c Standard LaTeX option (flush left equations)
+\mathindent=\dimen127
+)
+(C:\CTEX\MiKTeX\tex\latex\base\size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+Requested font "cmr10" at 10.95pt
+ -> cmr10
+)
+(C:\CTEX\UserData\tex\latex\pgf\basiclayer\pgfcore.sty
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+
+(C:\CTEX\MiKTeX\tex\xelatex\xetex-def\xetex.def
+File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+\Gin@req@height=\dimen128
+\Gin@req@width=\dimen129
+)
+(C:\CTEX\UserData\tex\latex\pgf\systemlayer\pgfsys.sty
+(C:\CTEX\UserData\tex\latex\pgf\utilities\pgfrcs.sty
+(C:\CTEX\UserData\tex\generic\pgf\utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen130
+\pgfutil@tempdimb=\dimen131
+
+(C:\CTEX\UserData\tex\generic\pgf\utilities\pgfutil-common-lists.tex))
+(C:\CTEX\UserData\tex\generic\pgf\utilities\pgfutil-latex.def
+\pgfutil@abb=\box34
+
+(C:\CTEX\UserData\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(C:\CTEX\UserData\tex\generic\pgf\utilities\pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+(C:\CTEX\UserData\tex\generic\pgf\systemlayer\pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(C:\CTEX\UserData\tex\generic\pgf\utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(C:\CTEX\UserData\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen132
+\pgf@y=\dimen133
+\pgf@xa=\dimen134
+\pgf@ya=\dimen135
+\pgf@xb=\dimen136
+\pgf@yb=\dimen137
+\pgf@xc=\dimen138
+\pgf@yc=\dimen139
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count106
+\c@pgf@countb=\count107
+\c@pgf@countc=\count108
+\c@pgf@countd=\count109
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+
+(C:\CTEX\UserData\tex\generic\pgf\systemlayer\pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(C:\CTEX\UserData\tex\generic\pgf\systemlayer\pgfsys-xetex.def
+File: pgfsys-xetex.def 2014/07/09  (rcs-revision 1.11)
+
+(C:\CTEX\UserData\tex\generic\pgf\systemlayer\pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2014/07/09  (rcs-revision 1.14)
+
+(C:\CTEX\UserData\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)
+\pgfsys@objnum=\count110
+)))
+(C:\CTEX\UserData\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count111
+\pgfsyssoftpath@bigbuffer@items=\count112
+)
+(C:\CTEX\UserData\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(C:\CTEX\UserData\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(C:\CTEX\MiKTeX\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmath.code.tex
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathcalc.code.tex
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathutil.code.tex)
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen140
+\pgfmath@count=\count113
+\pgfmath@box=\box35
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathfunctions.code.tex
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex)
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex)
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathfunctions.random.code.tex)
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex)
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathfunctions.base.code.tex)
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathfunctions.round.code.tex)
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex)
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code
+.tex))) (C:\CTEX\UserData\tex\generic\pgf\math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count114
+))
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen141
+\pgf@picmaxx=\dimen142
+\pgf@picminy=\dimen143
+\pgf@picmaxy=\dimen144
+\pgf@pathminx=\dimen145
+\pgf@pathmaxx=\dimen146
+\pgf@pathminy=\dimen147
+\pgf@pathmaxy=\dimen148
+\pgf@xx=\dimen149
+\pgf@xy=\dimen150
+\pgf@yx=\dimen151
+\pgf@yy=\dimen152
+\pgf@zx=\dimen153
+\pgf@zy=\dimen154
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen155
+\pgf@path@lasty=\dimen156
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen157
+\pgf@shorten@start@additional=\dimen158
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count115
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen159
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen160
+\pgf@pt@y=\dimen161
+\pgf@pt@temp=\dimen162
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen163
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen164
+\pgf@sys@shading@range@num=\count116
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box39
+))
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(C:\CTEX\UserData\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(C:\CTEX\UserData\tex\latex\pgf\utilities\xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count117
+\XC@countmixins=\count118
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\atbegshi.sty
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+))
+(C:\CTEX\MiKTeX\tex\latex\hyperref\hyperref.sty
+Package: hyperref 2012/02/06 v6.82o Hypertext links for LaTeX
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\hobsub-hyperref.sty
+Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\hobsub-generic.sty
+Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
+Package: bigintcalc 2011/01/30 v1.2 Expandable big integer calculations (HO)
+Package: bitset 2011/01/30 v1.1 Data type bit set (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provides unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
+)
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+)
+\@linkdim=\dimen165
+\Hy@linkcounter=\count119
+\Hy@pagecounter=\count120
+
+(C:\CTEX\MiKTeX\tex\latex\hyperref\pd1enc.def
+File: pd1enc.def 2012/02/06 v6.82o Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count121
+
+(C:\CTEX\MiKTeX\tex\latex\00miktex\hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 3925.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 3925.
+Package hyperref Info: Option `implicit' set `false' on input line 3925.
+Package hyperref Info: Hyper figures OFF on input line 4046.
+Package hyperref Info: Link nesting OFF on input line 4051.
+Package hyperref Info: Hyper index ON on input line 4054.
+Package hyperref Info: Plain pages OFF on input line 4061.
+Package hyperref Info: Backreferencing OFF on input line 4066.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4284.
+\c@Hy@tempcnt=\count122
+
+(C:\CTEX\MiKTeX\tex\xelatex\xetexurl\url.sty
+\Urlmuskip=\muskip10
+Package: url 2004/03/15  ver 3.1  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4637.
+\Fld@menulength=\count123
+\Field@Width=\dimen166
+\Fld@charsize=\dimen167
+Package hyperref Info: Hyper figures OFF on input line 5757.
+Package hyperref Info: Link nesting OFF on input line 5762.
+Package hyperref Info: Hyper index ON on input line 5765.
+Package hyperref Info: backreferencing OFF on input line 5772.
+Package hyperref Info: Link coloring OFF on input line 5777.
+Package hyperref Info: Link coloring with OCG OFF on input line 5782.
+Package hyperref Info: PDF/A mode OFF on input line 5787.
+LaTeX Info: Redefining \ref on input line 5827.
+LaTeX Info: Redefining \pageref on input line 5831.
+\Hy@abspage=\count124
+
+
+Package hyperref Message: Stopped early.
+
+)
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(C:\CTEX\MiKTeX\tex\latex\hyperref\hxetex.def
+File: hxetex.def 2012/02/06 v6.82o Hyperref driver for XeTeX
+
+(C:\CTEX\MiKTeX\tex\latex\hyperref\puenc.def
+File: puenc.def 2012/02/06 v6.82o Hyperref: PDF Unicode definition (HO)
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\stringenc.sty
+Package: stringenc 2010/03/01 v1.8 Converts strings between encodings (HO)
+)
+\pdfm@box=\box40
+\c@Hy@AnnotLevel=\count125
+\HyField@AnnotCount=\count126
+\Fld@listcount=\count127
+\c@bookmark@seq@number=\count128
+
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+
+(rerunfilecheck)             Therefore file contents cannot be checked efficien
+tly
+(rerunfilecheck)             and the loading of the package is aborted.
+))
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\se-ascii-print.def
+File: se-ascii-print.def 2010/03/01 v1.8 stringenc: Printable ASCII characters
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbaserequires.sty
+Package: beamerbaserequires 2010/05/01  (rcs-revision efa082c6111d)
+
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbasecompatibility.sty
+Package: beamerbasecompatibility 2012/05/01  (rcs-revision 67c48b3b652d)
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbasefont.sty
+Package: beamerbasefont 2015/01/05  (rcs-revision b4b4bee242e2)
+
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks26
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)))
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbasetranslator.sty
+Package: beamerbasetranslator 2010/06/11  (rcs-revision 85fd1cc7fc42)
+
+(C:\CTEX\UserData\tex\latex\beamer\base\translator\translator.sty
+Package: translator 2010/06/12 ver 1.10
+
+(C:\CTEX\UserData\tex\latex\beamer\base\translator\translator-language-mappings
+.tex))) (C:\CTEX\UserData\tex\latex\beamer\base\beamerbasemisc.sty
+Package: beamerbasemisc 2013/09/03  (rcs-revision a55719c41d85)
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbasetwoscreens.sty
+Package: beamerbasetwoscreens 2010/05/01  (rcs-revision efa082c6111d)
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbaseoverlay.sty
+Package: beamerbaseoverlay 2013/12/25  (rcs-revision f6bd5e3805da)
+\beamer@argscount=\count129
+\beamer@lastskipcover=\skip44
+\beamer@trivlistdepth=\count130
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbasetitle.sty
+Package: beamerbasetitle 2010/09/21  (rcs-revision f0446ed0b6ae)
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbasesection.sty
+Package: beamerbasesection 2013/06/07  (rcs-revision 60b9fe0f342f)
+\c@lecture=\count131
+\c@part=\count132
+\c@section=\count133
+\c@subsection=\count134
+\c@subsubsection=\count135
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbaseframe.sty
+Package: beamerbaseframe 2014/02/20  (rcs-revision 4b8ceeeff434)
+\beamer@framebox=\box41
+\beamer@frametitlebox=\box42
+\beamer@zoombox=\box43
+\beamer@zoomcount=\count136
+\beamer@zoomframecount=\count137
+\beamer@frametextheight=\dimen168
+\c@subsectionslide=\count138
+\beamer@frametopskip=\skip45
+\beamer@framebottomskip=\skip46
+\beamer@frametopskipautobreak=\skip47
+\beamer@framebottomskipautobreak=\skip48
+\beamer@envbody=\toks27
+\framewidth=\dimen169
+\c@framenumber=\count139
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbaseverbatim.sty
+Package: beamerbaseverbatim 2015/01/05  (rcs-revision 431510bb5890)
+\beamer@verbatimfileout=\write4
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbaseframesize.sty
+Package: beamerbaseframesize 2011/09/12  (rcs-revision 70f9d8411e54)
+\beamer@splitbox=\box44
+\beamer@autobreakcount=\count140
+\beamer@autobreaklastheight=\dimen170
+\beamer@frametitletoks=\toks28
+\beamer@framesubtitletoks=\toks29
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbaseframecomponents.sty
+Package: beamerbaseframecomponents 2013/10/18  (rcs-revision 5cf6c5555a45)
+\beamer@footins=\box45
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbasecolor.sty
+Package: beamerbasecolor 2015/02/21  (rcs-revision d944b04ee2d5)
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbasenotes.sty
+Package: beamerbasenotes 2012/12/19  (rcs-revision 1686da3db3c9)
+\beamer@frameboxcopy=\box46
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbasetoc.sty
+Package: beamerbasetoc 2015/03/08  (rcs-revision 7270298bbaae)
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbasetemplates.sty
+Package: beamerbasetemplates 2010/05/01  (rcs-revision efa082c6111d)
+\beamer@sbttoks=\toks30
+
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbaseauxtemplates.sty
+Package: beamerbaseauxtemplates 2014/06/30  (rcs-revision 580088513a67)
+
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbaseboxes.sty
+Package: beamerbaseboxes 2012/05/13  (rcs-revision 56972908a390)
+\bmb@box=\box47
+\bmb@colorbox=\box48
+\bmb@boxshadow=\box49
+\bmb@boxshadowball=\box50
+\bmb@boxshadowballlarge=\box51
+\bmb@temp=\dimen171
+\bmb@dima=\dimen172
+\bmb@dimb=\dimen173
+\bmb@prevheight=\dimen174
+)
+\beamer@blockheadheight=\dimen175
+))
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbaselocalstructure.sty
+Package: beamerbaselocalstructure 2014/09/10  (rcs-revision 393f6dcff371)
+
+(C:\CTEX\MiKTeX\tex\latex\tools\enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+)
+\c@figure=\count141
+\c@table=\count142
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbasenavigation.sty
+Package: beamerbasenavigation 2015/02/27  (rcs-revision 923f4bf87efa)
+\beamer@section@min@dim=\dimen176
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbasetheorems.sty
+Package: beamerbasetheorems 2010/06/06  (rcs-revision 7e7cc5e53e9d)
+
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks32
+\ex@=\dimen177
+))
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen178
+)
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count143
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count144
+\leftroot@=\count145
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count146
+\DOTSCASE@=\count147
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+\big@size=\dimen179
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count148
+\c@MaxMatrixCols=\count149
+\dotsspace@=\muskip11
+\c@parentequation=\count150
+\dspbrk@lvl=\count151
+\tag@help=\toks33
+\row@=\count152
+\column@=\count153
+\maxfields@=\count154
+\andhelp@=\toks34
+\eqnshift@=\dimen180
+\alignsep@=\dimen181
+\tagshift@=\dimen182
+\tagwidth@=\dimen183
+\totwidth@=\dimen184
+\lineht@=\dimen185
+\@envbody=\toks35
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(C:\CTEX\MiKTeX\tex\latex\ams\classes\amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks42
+)
+\c@theorem=\count155
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\beamerbasethemes.sty
+Package: beamerbasethemes 2010/05/01  (rcs-revision efa082c6111d)
+))
+Requested font "cmss10" at 10.95pt
+ -> cmss10
+
+(C:\CTEX\UserData\tex\latex\beamer\base\themes\theme\beamerthemedefault.sty
+Package: beamerthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
+
+(C:\CTEX\UserData\tex\latex\beamer\base\themes\font\beamerfontthemedefault.sty
+Package: beamerfontthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\themes\color\beamercolorthemedefault.st
+y
+Package: beamercolorthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\themes\inner\beamerinnerthemedefault.st
+y
+Package: beamerinnerthemedefault 2014/06/30  (rcs-revision 580088513a67)
+\beamer@dima=\dimen186
+\beamer@dimb=\dimen187
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\themes\outer\beamerouterthemedefault.st
+y
+Package: beamerouterthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+)))
+(C:\CTEX\UserData\tex\latex\beamer\base\themes\theme\beamerthemeAAUsidebar.sty
+Package: beamerthemeAAUsidebar 2013/05/26 v1.3.0 The AAU Sidebar Beamer Theme
+
+(C:\CTEX\UserData\tex\latex\pgf\frontendlayer\tikz.sty
+(C:\CTEX\UserData\tex\latex\pgf\basiclayer\pgf.sty
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(C:\CTEX\UserData\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box54
+)
+(C:\CTEX\UserData\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(C:\CTEX\UserData\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen188
+\pgf@nodesepend=\dimen189
+)
+(C:\CTEX\UserData\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+(C:\CTEX\UserData\tex\latex\pgf\utilities\pgffor.sty
+(C:\CTEX\UserData\tex\latex\pgf\utilities\pgfkeys.sty
+(C:\CTEX\UserData\tex\generic\pgf\utilities\pgfkeys.code.tex))
+(C:\CTEX\UserData\tex\latex\pgf\math\pgfmath.sty
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmath.code.tex))
+(C:\CTEX\UserData\tex\generic\pgf\utilities\pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(C:\CTEX\UserData\tex\generic\pgf\math\pgfmath.code.tex)
+\pgffor@iter=\dimen190
+\pgffor@skip=\dimen191
+\pgffor@stack=\toks43
+\pgffor@toks=\toks44
+))
+(C:\CTEX\UserData\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(C:\CTEX\UserData\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count156
+\pgfplotmarksize=\dimen192
+)
+\tikz@lastx=\dimen193
+\tikz@lasty=\dimen194
+\tikz@lastxsaved=\dimen195
+\tikz@lastysaved=\dimen196
+\tikzleveldistance=\dimen197
+\tikzsiblingdistance=\dimen198
+\tikz@figbox=\box55
+\tikz@figbox@bg=\box56
+\tikz@tempbox=\box57
+\tikz@tempbox@bg=\box58
+\tikztreelevel=\count157
+\tikznumberofchildren=\count158
+\tikznumberofcurrentchild=\count159
+\tikz@fig@count=\count160
+
+(C:\CTEX\UserData\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count161
+\pgfmatrixcurrentcolumn=\count162
+\pgf@matrix@numberofcolumns=\count163
+)
+\tikz@expandcount=\count164
+
+(C:\CTEX\UserData\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopat
+hs.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+))) (C:\CTEX\MiKTeX\tex\latex\tools\calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count165
+\calc@Bcount=\count166
+\calc@Adimen=\dimen199
+\calc@Bdimen=\dimen200
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count167
+\calc@Cskip=\skip59
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\themes\inner\beamerinnerthemeAAUsidebar
+.sty
+Package: beamerinnerthemeAAUsidebar 2013/05/26 v1.3.0 The AAU Sidebar Beamer Th
+eme
+\beamer@plainpagewidth=\skip60
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\themes\outer\beamerouterthemeAAUsidebar
+.sty
+Package: beamerouterthemeAAUsidebar 2013/05/26 v1.3.0 The AAU Sidebar Beamer Th
+eme
+\beamer@width=\skip61
+\beamer@height=\skip62
+Requested font "cmss12" at 14.4pt
+ -> cmss12
+\beamer@barwidth=\skip63
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\themes\color\beamercolorthemeAAUsidebar
+.sty
+Package: beamercolorthemeAAUsidebar 2013/05/26 v1.3.0 The AAU Sidebar Beamer Th
+eme
+)) (C:\CTEX\MiKTeX\tex\xelatex\xecjk\xeCJK.sty
+Package: xeCJK 2012/01/31 2.4.5 package for typesetting CJK scripts with XeLaTe
+X
+
+(C:\CTEX\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
+
+(C:\CTEX\MiKTeX\tex\generic\xkeyval\xkeyval.tex
+\XKV@toks=\toks45
+\XKV@tempa@toks=\toks46
+\XKV@depth=\count168
+File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
+))
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\expl3.sty
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3names.sty
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3bootstrap.sty
+Package: l3bootstrap 2011/12/29 v3110 L3 Experimental bootstrap code
+)
+Package: l3names 2011/12/30 v3113 L3 Experimental namespace for primitives
+)
+(C:\CTEX\MiKTeX\tex\latex\misc\etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count169
+)
+Package: expl3 2012/02/26 v3471 L3 Experimental code bundle wrapper
+
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3basics.sty
+Package: l3basics 2012/02/26 v3460 L3 Experimental basic definitions
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3expan.sty
+Package: l3expan 2012/02/26 v3460 L3 Experimental argument expansion
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3tl.sty
+Package: l3tl 2012/02/26 v3460 L3 Experimental token lists
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3seq.sty
+Package: l3seq 2012/01/09 v3158 L3 Experimental sequences and stacks
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3int.sty
+Package: l3int 2012/02/26 v3460 L3 Experimental integers
+\c_max_int=\count170
+\l_tmpa_int=\count171
+\l_tmpb_int=\count172
+\l_tmpc_int=\count173
+\g_tmpa_int=\count174
+\g_tmpb_int=\count175
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3quark.sty
+Package: l3quark 2012/02/12 v3384 L3 Experimental quarks
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3prg.sty
+Package: l3prg 2012/02/26 v3464 L3 Experimental control structures
+\g_prg_map_int=\count176
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3clist.sty
+Package: l3clist 2012/02/26 v3460 L3 Experimental comma separated lists
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3token.sty
+Package: l3token 2012/02/26 v3460 L3 Experimental token manipulation
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3prop.sty
+Package: l3prop 2012/02/26 v3460 L3 Experimental property lists
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3msg.sty
+Package: l3msg 2012/02/26 v3470 L3 Experimental messages
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3file.sty
+Package: l3file 2012/02/26 v3464 L3 Experimental file and I/O operations
+\l_iow_stream_int=\count177
+\l_iow_line_length_int=\count178
+\l_iow_target_length_int=\count179
+\l_iow_current_line_int=\count180
+\l_iow_current_word_int=\count181
+\l_iow_current_indentation_int=\count182
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3skip.sty
+Package: l3skip 2012/02/26 v3460 L3 Experimental dimensions and skips
+\l_tmpa_dim=\dimen201
+Normal \dimen register pool exhausted, switching to extended pool.
+\l_tmpb_dim=\dimen256
+\l_tmpc_dim=\dimen257
+\g_tmpa_dim=\dimen258
+\g_tmpb_dim=\dimen259
+\l_tmpa_skip=\skip64
+\l_tmpb_skip=\skip65
+\l_tmpc_skip=\skip66
+\g_tmpa_skip=\skip67
+\g_tmpb_skip=\skip68
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3keys.sty
+Package: l3keys 2011/12/22 v3086 L3 Experimental key-value interfaces
+\g_keyval_level_int=\count183
+\l_keys_choice_int=\count184
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3fp.sty
+Package: l3fp 2012/02/06 v3315 L3 Experimental floating-point operations
+\c_one_hundred_million=\count185
+\c_five_hundred_million=\count186
+\c_one_thousand_million=\count187
+\c_fp_pi_by_four_decimal_int=\count188
+\c_fp_pi_by_four_extended_int=\count189
+\c_fp_pi_decimal_int=\count190
+\c_fp_pi_extended_int=\count191
+\c_fp_two_pi_decimal_int=\count192
+\c_fp_two_pi_extended_int=\count193
+\l_fp_count_int=\count194
+\l_fp_div_offset_int=\count195
+\l_fp_exp_integer_int=\count196
+\l_fp_exp_decimal_int=\count197
+\l_fp_exp_extended_int=\count198
+\l_fp_exp_exponent_int=\count199
+\l_fp_input_a_sign_int=\count200
+\l_fp_input_a_integer_int=\count201
+Normal \count register pool exhausted, switching to extended pool.
+\l_fp_input_a_decimal_int=\count277
+\l_fp_input_a_exponent_int=\count278
+\l_fp_input_b_sign_int=\count279
+\l_fp_input_b_integer_int=\count280
+\l_fp_input_b_decimal_int=\count281
+\l_fp_input_b_exponent_int=\count282
+\l_fp_input_a_extended_int=\count283
+\l_fp_input_b_extended_int=\count284
+\l_fp_mul_a_i_int=\count285
+\l_fp_mul_a_ii_int=\count286
+\l_fp_mul_a_iii_int=\count287
+\l_fp_mul_a_iv_int=\count288
+\l_fp_mul_a_v_int=\count289
+\l_fp_mul_a_vi_int=\count290
+\l_fp_mul_b_i_int=\count291
+\l_fp_mul_b_ii_int=\count292
+\l_fp_mul_b_iii_int=\count293
+\l_fp_mul_b_iv_int=\count294
+\l_fp_mul_b_v_int=\count295
+\l_fp_mul_b_vi_int=\count296
+\l_fp_mul_output_int=\count297
+\l_fp_output_sign_int=\count298
+\l_fp_output_integer_int=\count299
+\l_fp_output_decimal_int=\count300
+\l_fp_output_exponent_int=\count301
+\l_fp_output_extended_int=\count302
+\l_fp_round_position_int=\count303
+\l_fp_round_target_int=\count304
+\l_fp_split_sign_int=\count305
+\l_fp_internal_int=\count306
+\l_fp_trig_octant_int=\count307
+\l_fp_trig_sign_int=\count308
+\l_fp_trig_decimal_int=\count309
+\l_fp_trig_extended_int=\count310
+\l_fp_internal_dim=\dimen260
+\l_fp_internal_skip=\skip69
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3box.sty
+Package: l3box 2012/02/18 v3432 L3 Experimental boxes
+\l_tmpb_box=\box59
+\l_box_top_dim=\dimen261
+\l_box_bottom_dim=\dimen262
+\l_box_left_dim=\dimen263
+\l_box_right_dim=\dimen264
+\l_box_top_new_dim=\dimen265
+\l_box_bottom_new_dim=\dimen266
+\l_box_left_new_dim=\dimen267
+\l_box_right_new_dim=\dimen268
+\l_box_internal_box=\box60
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3coffins.sty
+Package: l3coffins 2012/02/26 v3460 L3 Experimental coffin code layer
+\l_coffin_internal_box=\box61
+\l_coffin_internal_dim=\dimen269
+\l_coffin_offset_x_dim=\dimen270
+\l_coffin_offset_y_dim=\dimen271
+\l_coffin_x_dim=\dimen272
+\l_coffin_y_dim=\dimen273
+\l_coffin_x_prime_dim=\dimen274
+\l_coffin_y_prime_dim=\dimen275
+\l_coffin_Depth_dim=\dimen276
+\l_coffin_Height_dim=\dimen277
+\l_coffin_TotalHeight_dim=\dimen278
+\l_coffin_Width_dim=\dimen279
+\c_empty_coffin=\box62
+\l_coffin_aligned_coffin=\box63
+\l_coffin_aligned_internal_coffin=\box64
+\l_coffin_bounding_shift_dim=\dimen280
+\l_coffin_left_corner_dim=\dimen281
+\l_coffin_right_corner_dim=\dimen282
+\l_coffin_bottom_corner_dim=\dimen283
+\l_coffin_top_corner_dim=\dimen284
+\l_coffin_scaled_total_height_dim=\dimen285
+\l_coffin_scaled_width_dim=\dimen286
+\l_coffin_display_coffin=\box65
+\l_coffin_display_coord_coffin=\box66
+\l_coffin_display_pole_coffin=\box67
+\l_coffin_display_offset_dim=\dimen287
+\l_coffin_display_x_dim=\dimen288
+\l_coffin_display_y_dim=\dimen289
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3color.sty
+Package: l3color 2011/09/07 v2776 L3 Experimental colour support
+)
+(C:\CTEX\MiKTeX\tex\latex\l3kernel\l3luatex.sty
+Package: l3luatex 2012/02/09 v3355 L3 Experimental LuaTeX-specific functions
+\g_cctab_allocate_int=\count311
+\g_cctab_stack_int=\count312
+))
+(C:\CTEX\MiKTeX\tex\latex\fontspec\fontspec.sty
+Package: fontspec 2011/09/18 v2.2a Advanced font selection for XeLaTeX/LuaLaTeX
+
+
+(C:\CTEX\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+Package: xparse 2012/02/26 v3471 L3 Experimental document command parser
+\l_xparse_current_arg_int=\count313
+\l_xparse_m_args_int=\count314
+\l_xparse_mandatory_args_int=\count315
+\l_xparse_processor_int=\count316
+\l_xparse_v_nesting_int=\count317
+)
+\l_fontspec_script_int=\count318
+\l_fontspec_language_int=\count319
+\l_fontspec_strnum_int=\count320
+\l_fontspec_tmpa_dim=\dimen290
+\l_fontspec_tmpb_dim=\dimen291
+\l_fontspec_tmpc_dim=\dimen292
+Variant \tl_gset:cV already defined; not changing it on line 66
+
+(C:\CTEX\MiKTeX\tex\latex\fontspec\fontspec-patches.sty
+Package: fontspec-patches 2011/09/18 v2.2a Advanced font selection for XeLaTeX/
+LuaLaTeX
+
+(C:\CTEX\MiKTeX\tex\latex\base\fixltx2e.sty
+Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
+LaTeX Info: Redefining \em on input line 420.
+LaTeX Info: The control sequence `\[' is already robust on input line 471.
+LaTeX Info: The control sequence `\]' is already robust on input line 472.
+)
+LaTeX Info: Redefining \em on input line 22.
+LaTeX Info: Redefining \emph on input line 29.
+LaTeX Info: Redefining \- on input line 32.
+
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \oldstylenums with arg. spec. 'm' on line 107.
+*************************************************
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \liningnums with arg. spec. 'm' on line 111.
+.................................................
+) (C:\CTEX\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
+Package: fontspec-xetex 2011/09/18 v2.2a Advanced font selection for XeLaTeX/Lu
+aLaTeX
+
+(C:\CTEX\MiKTeX\tex\latex\base\fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(C:\CTEX\MiKTeX\tex\latex\euenc\eu1enc.def
+File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
+)
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 100.
+
+
+(C:\CTEX\MiKTeX\tex\latex\euenc\eu1lmr.fd
+File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Requested font "[lmroman10-regular]:mapping=tex-text" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman10-regular.otf
+)
+(C:\CTEX\MiKTeX\tex\xelatex\xunicode\xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+
+(C:\CTEX\MiKTeX\tex\latex\tipa\t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+Requested font "[lmromanslant10-regular]:mapping=tex-text" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmromanslant10-regular.otf
+Requested font "[lmroman10-italic]:mapping=tex-text" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman10-italic.otf
+Requested font "[lmroman10-bold]:mapping=tex-text" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman10-bold.otf
+LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357
+.
+
+(C:\CTEX\MiKTeX\tex\latex\euenc\eu1lmss.fd
+File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Requested font "[lmsans10-regular]:mapping=tex-text" at 10.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmsans10-regular.otf
+)
+\tipaTiiicode=\count321
+\tipasavetokens=\toks47
+\tipachecktokens=\toks48
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \fontspec with arg. spec. 'O{}m' on line 39.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmainfont with arg. spec. 'O{}m' on line 43.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setsansfont with arg. spec. 'O{}m' on line 47.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmonofont with arg. spec. 'O{}m' on line 51.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmathrm with arg. spec. 'O{}m' on line 59.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setboldmathrm with arg. spec. 'O{}m' on line 62.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmathsf with arg. spec. 'O{}m' on line 65.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmathtt with arg. spec. 'O{}m' on line 68.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontfamily with arg. spec. 'mO{}m' on line 84.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontface with arg. spec. 'mO{}m' on line 87.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \defaultfontfeatures with arg. spec. 'm' on line
+. 91.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \addfontfeatures with arg. spec. 'm' on line 107.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontfeature with arg. spec. 'mm' on line 118.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newAATfeature with arg. spec. 'mmmm' on line 125.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newICUfeature with arg. spec. 'mmm' on line 132.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \aliasfontfeature with arg. spec. 'mm' on line
+. 159.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \aliasfontfeatureoption with arg. spec. 'mmm' on
+. line 164.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontscript with arg. spec. 'mm' on line 169.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontlanguage with arg. spec. 'mm' on line 192.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareFontsExtensions with arg. spec. 'm' on
+. line 211.
+.................................................
+Variant \prop_gput:cnV already defined; not changing it on line 485
+Variant \prop_gput:cnx already defined; not changing it on line 486
+Variant \keys_set:nx already defined; not changing it on line 963
+\c@fontspec_tmp_int=\count322
+LaTeX Info: Redefining \itshape on input line 1881.
+LaTeX Info: Redefining \slshape on input line 1885.
+LaTeX Info: Redefining \scshape on input line 1889.
+LaTeX Info: Redefining \upshape on input line 1893.
+
+(C:\CTEX\MiKTeX\tex\latex\fontspec\fontspec.cfg)))
+\xeCJK@cnta=\count323
+\xeCJK@cntb=\count324
+\xeCJK@cntc=\count325
+\xeCJK@cntd=\count326
+\xeCJK@cnte=\count327
+\xeCJK@dima=\dimen293
+LaTeX Info: Redefining \normalfont on input line 886.
+LaTeX Info: Redefining \rmfamily on input line 895.
+LaTeX Info: Redefining \sffamily on input line 899.
+LaTeX Info: Redefining \ttfamily on input line 903.
+\xeCJK@featureadded=\count328
+\g_xecjk_exspace_dim=\dimen294
+)
+(C:\CTEX\MiKTeX\tex\latex\tools\bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+)
+(C:\CTEX\UserData\tex\latex\wrapfig\wrapfig.sty
+\wrapoverhang=\dimen295
+\WF@size=\dimen296
+\c@WF@wrappedlines=\count329
+\WF@box=\box68
+\WF@everypar=\toks49
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\CTEX\UserData\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip70
+\subfigcapskip=\skip71
+\subfigcaptopadj=\dimen297
+\subfigbottomskip=\skip72
+\subfigcapmargin=\dimen298
+\subfiglabelskip=\skip73
+\c@subfigure=\count330
+\c@lofdepth=\count331
+\c@subtable=\count332
+\c@lotdepth=\count333
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\CTEX\UserData\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip74
+\subfig@bottom=\skip75
+)
+(C:\CTEX\MiKTeX\tex\latex\tools\multicol.sty
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count334
+\mult@box=\box69
+\multicol@leftmargin=\dimen299
+\c@unbalance=\count335
+\c@collectmore=\count336
+\doublecol@number=\count337
+\multicoltolerance=\count338
+\multicolpretolerance=\count339
+\full@width=\dimen300
+\page@free=\dimen301
+\premulticols=\dimen302
+\postmulticols=\dimen303
+\multicolsep=\skip76
+\multicolbaselineskip=\skip77
+\partial@page=\box70
+\last@line=\box71
+\mult@rightbox=\box72
+\mult@grightbox=\box73
+\mult@gfirstbox=\box74
+\mult@firstbox=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\c@columnbadness=\count340
+\c@finalcolumnbadness=\count341
+\last@try=\dimen304
+\multicolovershoot=\dimen305
+\multicolundershoot=\dimen306
+\mult@nat@firstbox=\box93
+\colbreak@box=\box94
+\multicol@sort@counter=\count342
+)
+(C:\CTEX\MiKTeX\tex\generic\babel\babel.sty
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\CTEX\MiKTeX\tex\latex\00miktex\bblopts.cfg
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+(C:\CTEX\MiKTeX\tex\generic\babel\english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(C:\CTEX\MiKTeX\tex\generic\babel\babel.def
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+LaTeX Info: Redefining \textlatin on input line 82.
+\babel@savecnt=\count343
+\U@D=\dimen307
+)
+\l@british = a dialect from \language0
+\l@UKenglish = a dialect from \language0
+\l@american = a dialect from \language0
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(C:\CTEX\MiKTeX\tex\latex\base\fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(C:\CTEX\MiKTeX\tex\latex\base\t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 100.
+ (C:\CTEX\MiKTeX\tex\latex\lm\t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Requested font "ec-lmr10" at 10.0pt
+ -> ec-lmr10
+) (C:\CTEX\MiKTeX\tex\latex\base\textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(C:\CTEX\MiKTeX\tex\latex\base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+(C:\CTEX\UserData\tex\latex\listings\listings.sty
+\lst@mode=\count344
+\lst@gtempboxa=\box95
+\lst@token=\toks50
+\lst@length=\count345
+\lst@currlwidth=\dimen308
+\lst@column=\count346
+\lst@pos=\count347
+\lst@lostspace=\dimen309
+\lst@width=\dimen310
+\lst@newlines=\count348
+\lst@lineno=\count349
+\lst@maxwidth=\dimen311
+
+(C:\CTEX\UserData\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count350
+\lst@skipnumbers=\count351
+\lst@framebox=\box96
+)
+(C:\CTEX\UserData\tex\latex\listings\listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(C:\CTEX\MiKTeX\tex\latex\psnfss\helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+Requested font "Source Code Pro" at 10.0pt
+ -> C:/WINDOWS/Fonts/SourceCodePro-Regular_0.otf
+Requested font "Source Code Pro/ICU" at 10.0pt
+ -> C:/WINDOWS/Fonts/SourceCodePro-Regular_0.otf
+\g_fontspec_family_Source Code Pro_int=\count352
+Requested font "Source Code Pro/B/ICU" at 10.0pt
+ -> C:/WINDOWS/Fonts/SourceCodePro-Bold.otf
+Requested font "Source Code Pro/B/B/ICU" at 10.0pt
+ -> C:/WINDOWS/Fonts/SourceCodePro-Bold.otf
+Requested font "Source Code Pro/I/ICU" at 10.0pt
+ -> C:/WINDOWS/Fonts/SourceCodePro-It.otf
+Requested font "Source Code Pro/I/I/ICU" at 10.0pt
+ -> C:/WINDOWS/Fonts/SourceCodePro-It.otf
+Requested font "Source Code Pro/BI/ICU" at 10.0pt
+ -> C:/WINDOWS/Fonts/SourceCodePro-BoldIt.otf
+Requested font "Source Code Pro/BI/BI/ICU" at 10.0pt
+ -> C:/WINDOWS/Fonts/SourceCodePro-BoldIt.otf
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'SourceCodePro(0)' created for font 'Source Code Pro' with
+. options [].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"Source Code Pro/ICU:script=latn;language=DFLT;"
+. 
+. * 'bold' with NFSS spec.:
+. <->"Source Code Pro/B/ICU:script=latn;language=DFLT;"
+. 
+. * 'italic' with NFSS spec.:
+. <->"Source Code Pro/I/ICU:script=latn;language=DFLT;"
+. 
+. * 'bold italic' with NFSS spec.:
+. <->"Source Code Pro/BI/ICU:script=latn;language=DFLT;"
+.................................................
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 97.
+
+(H:\bachelorDocumentPackageForHust\bachelorBeamer\beamer.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 124.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 124.
+
+(C:\CTEX\MiKTeX\tex\latex\tipa\t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 124.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 124.
+
+
+(C:\CTEX\MiKTeX\tex\latex\base\ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 124.
+
+(C:\CTEX\MiKTeX\tex\latex\psnfss\t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+Requested font "phvr8t" at 10.95pt
+ -> phvr8t
+
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(71.13187pt, 278.83713pt, 14.22636pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=278.83713pt
+* \textheight=244.6939pt
+* \oddsidemargin=-1.13812pt
+* \evensidemargin=-1.13812pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box97
+Package hyperref Info: Link coloring OFF on input line 124.
+
+(C:\CTEX\MiKTeX\tex\latex\hyperref\nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count353
+)
+LaTeX Info: Redefining \ref on input line 124.
+LaTeX Info: Redefining \pageref on input line 124.
+LaTeX Info: Redefining \nameref on input line 124.
+
+(H:\bachelorDocumentPackageForHust\bachelorBeamer\beamer.out)
+(H:\bachelorDocumentPackageForHust\bachelorBeamer\beamer.out)
+\@outlinefile=\write5
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 124.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 124.
+\symnumbers=\mathgroup9
+\sympureletters=\mathgroup10
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/lmr/m/n on input line 124.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 124.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 124.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 124.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 124.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 124.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> T1/phv/m/it on input line 124.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> T1/phv/m/it on input line 124.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 124.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/n on input line 124.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/n on input line 124.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 124.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 124.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/lmr/bx/n on input line 124.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  T1/phv/bx/n --> T1/phv/bx/n on input line 124.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 124.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 124.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/lmtt/m/n --> T1/lmtt/bx/n on input line 124.
+
+(C:\CTEX\UserData\tex\latex\beamer\base\translator\dicts\translator-basic-dicti
+onary\translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\translator\dicts\translator-bibliograph
+y-dictionary\translator-bibliography-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\translator\dicts\translator-environment
+-dictionary\translator-environment-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\translator\dicts\translator-months-dict
+ionary\translator-months-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\translator\dicts\translator-numbers-dic
+tionary\translator-numbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(C:\CTEX\UserData\tex\latex\beamer\base\translator\dicts\translator-theorem-dic
+tionary\translator-theorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+LaTeX Info: Redefining \includegraphics on input line 124.
+.................................................
+. fontspec info: "setup-math"
+. 
+. Adjusting the maths setup (use [no-math] to avoid this).
+.................................................
+\symlegacymaths=\mathgroup11
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 124.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 124.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 124.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 124.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 124.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 124.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 124.
+LaTeX Font Info:    Redeclaring math accent \check on input line 124.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 124.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 124.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 124.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 124.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 124.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 124.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 124.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 124.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 124.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 124.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 124.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 124.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 124.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 124.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 124.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 124.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 124.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmss/m/n --> EU1/lmr/m/n on input line 124.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 124.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmss/bx/n --> EU1/lmr/m/n on input line 124.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 124.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  T1/lmr/m/n --> EU1/lmr/m/n on input line 124.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  T1/phv/m/it --> EU1/lmr/m/it on input line 124.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  T1/phv/bx/n --> EU1/lmr/bx/n on input line 124.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  T1/phv/m/n --> EU1/phv/m/n on input line 124.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  T1/lmtt/m/n --> EU1/lmtt/m/n on input line 124.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 124.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  T1/lmr/bx/n --> EU1/lmr/bx/n on input line 124.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/phv/bx/it --> EU1/lmr/bx/it on input line 124.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/phv/bx/n --> EU1/phv/bx/n on input line 124.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/lmtt/bx/n --> EU1/lmtt/bx/n on input line 124.
+\c@lstlisting=\count354
+
+(H:\bachelorDocumentPackageForHust\bachelorBeamer\beamer.nav)
+Requested font "phvr8t" at 6.0pt
+ -> phvr8t
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 124.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" >
+Requested font "phvr8t" at 14.4pt
+ -> phvr8t
+Requested font "Microsoft YaHei" at 14.4pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+Requested font "Microsoft YaHei/ICU" at 14.4pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+\g_fontspec_family_Microsoft YaHei_int=\count355
+Requested font "SimHei/ICU" at 14.4pt
+ -> C:/WINDOWS/Fonts/simhei.ttf
+Requested font "Microsoft YaHei/I/ICU" at 14.4pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Microsoft YaHei/I (it probably doesn't exist).
+.................................................
+Requested font "SimHei/I/ICU" at 14.4pt
+ -> C:/WINDOWS/Fonts/simhei.ttf
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font SimHei/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'MicrosoftYaHei(0)' created for font 'Microsoft YaHei' with
+. options [BoldFont=SimHei].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"Microsoft YaHei/ICU:script=latn;language=DFLT;"
+. 
+. * 'bold' with NFSS spec.:
+. <->"SimHei/ICU:script=latn;language=DFLT;"
+.................................................
+Requested font "Microsoft YaHei/ICU:script=latn;language=DFLT;" at 14.4pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+Requested font "Microsoft YaHei" at 10.95pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+Requested font "Microsoft YaHei/ICU" at 10.95pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'MicrosoftYaHei(0)' created for font 'Microsoft YaHei' with
+. options [BoldFont=SimHei].
+. 
+. This font family consists of the following shapes:
+.................................................
+Requested font "Microsoft YaHei/ICU:script=latn;language=DFLT;" at 10.95pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+Requested font "phvr8t" at 8.0pt
+ -> phvr8t
+Requested font "Microsoft YaHei" at 8.0pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+Requested font "Microsoft YaHei/ICU" at 8.0pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'MicrosoftYaHei(0)' created for font 'Microsoft YaHei' with
+. options [BoldFont=SimHei].
+. 
+. This font family consists of the following shapes:
+.................................................
+Requested font "Microsoft YaHei/ICU:script=latn;language=DFLT;" at 8.0pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+File: pics/aau_logo_new.png Graphic file (type QTm)
+ <use  "pics/aau_logo_new.png" >
+Requested font "[lmroman10-regular]:mapping=tex-text" at 10.95pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman10-regular.otf
+Requested font "[lmroman8-regular]:mapping=tex-text" at 8.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman8-regular.otf
+Requested font "[lmroman6-regular]:mapping=tex-text" at 6.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman6-regular.otf
+Requested font "cmmi10" at 10.95pt
+ -> cmmi10
+Requested font "cmmi8" at 8.0pt
+ -> cmmi8
+Requested font "cmmi6" at 6.0pt
+ -> cmmi6
+Requested font "cmsy10" at 10.95pt
+ -> cmsy10
+Requested font "cmsy8" at 8.0pt
+ -> cmsy8
+Requested font "cmsy6" at 6.0pt
+ -> cmsy6
+Requested font "cmex10" at 10.95pt
+ -> cmex10
+Requested font "cmex8" at 8.0pt
+ -> cmex8
+Requested font "cmex7" at 6.0pt
+ -> cmex7
+LaTeX Font Info:    Try loading font information for U+msa on input line 132.
+
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+Requested font "msam10" at 10.95pt
+ -> msam10
+Requested font "msam10" at 8.0pt
+ -> msam10
+Requested font "msam7" at 6.0pt
+ -> msam7
+LaTeX Font Info:    Try loading font information for U+msb on input line 132.
+
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Requested font "msbm10" at 10.95pt
+ -> msbm10
+Requested font "msbm10" at 8.0pt
+ -> msbm10
+Requested font "msbm7" at 6.0pt
+ -> msbm7
+Requested font "cmbx10" at 10.95pt
+ -> cmbx10
+Requested font "cmbx8" at 8.0pt
+ -> cmbx8
+Requested font "cmbx6" at 6.0pt
+ -> cmbx6
+Requested font "cmmib10" at 10.95pt
+ -> cmmib10
+Requested font "cmmib8" at 8.0pt
+ -> cmmib8
+Requested font "cmmib6" at 6.0pt
+ -> cmmib6
+Requested font "cmbsy10" at 10.95pt
+ -> cmbsy10
+Requested font "cmbsy8" at 8.0pt
+ -> cmbsy8
+Requested font "cmbsy6" at 6.0pt
+ -> cmbsy6
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 132.
+Requested font "phvro8t" at 10.95pt
+ -> phvro8t
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 132.
+Requested font "phvro8t" at 8.0pt
+ -> phvro8t
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 132.
+Requested font "phvro8t" at 6.0pt
+ -> phvro8t
+Requested font "cmr8" at 8.0pt
+ -> cmr8
+Requested font "cmr6" at 6.0pt
+ -> cmr6
+File: AAUgraphics/aau_waves.pdf Graphic file (type QTm)
+
+<use  "AAUgraphics/aau_waves.pdf" > [1
+
+]
+(H:\bachelorDocumentPackageForHust\bachelorBeamer\beamer.toc)
+Requested font "phvr8t" at 9.0pt
+ -> phvr8t
+Requested font "[lmroman12-regular]:mapping=tex-text" at 14.4pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman12-regular.otf
+Requested font "[lmroman7-regular]:mapping=tex-text" at 7.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman7-regular.otf
+Requested font "cmmi12" at 14.4pt
+ -> cmmi12
+Requested font "cmsy10" at 14.4pt
+ -> cmsy10
+Requested font "cmex10" at 14.4pt
+ -> cmex10
+Requested font "cmex7" at 7.0pt
+ -> cmex7
+Requested font "msam10" at 14.4pt
+ -> msam10
+Requested font "msam10" at 10.0pt
+ -> msam10
+Requested font "msam7" at 7.0pt
+ -> msam7
+Requested font "msbm10" at 14.4pt
+ -> msbm10
+Requested font "msbm10" at 10.0pt
+ -> msbm10
+Requested font "msbm7" at 7.0pt
+ -> msbm7
+Requested font "cmbx12" at 14.4pt
+ -> cmbx12
+Requested font "cmbx10" at 10.0pt
+ -> cmbx10
+Requested font "cmbx7" at 7.0pt
+ -> cmbx7
+Requested font "cmmib10" at 14.4pt
+ -> cmmib10
+Requested font "cmmib10" at 10.0pt
+ -> cmmib10
+Requested font "cmmib7" at 7.0pt
+ -> cmmib7
+Requested font "cmbsy10" at 14.4pt
+ -> cmbsy10
+Requested font "cmbsy10" at 10.0pt
+ -> cmbsy10
+Requested font "cmbsy7" at 7.0pt
+ -> cmbsy7
+Requested font "phvr8t" at 10.0pt
+ -> phvr8t
+Requested font "phvr8t" at 7.0pt
+ -> phvr8t
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 136.
+Requested font "phvro8t" at 14.4pt
+ -> phvro8t
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 136.
+Requested font "phvro8t" at 10.0pt
+ -> phvro8t
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 136.
+Requested font "phvro8t" at 7.0pt
+ -> phvro8t
+Requested font "cmr12" at 14.4pt
+ -> cmr12
+Requested font "phvr8t" at 4.0pt
+ -> phvr8t
+Requested font "Microsoft YaHei" at 6.0pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+Requested font "Microsoft YaHei/ICU" at 6.0pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'MicrosoftYaHei(0)' created for font 'Microsoft YaHei' with
+. options [BoldFont=SimHei].
+. 
+. This font family consists of the following shapes:
+.................................................
+Requested font "Microsoft YaHei/ICU:script=latn;language=DFLT;" at 6.0pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+Requested font "Microsoft YaHei" at 4.0pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+Requested font "Microsoft YaHei/ICU" at 4.0pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'MicrosoftYaHei(0)' created for font 'Microsoft YaHei' with
+. options [BoldFont=SimHei].
+. 
+. This font family consists of the following shapes:
+.................................................
+Requested font "Microsoft YaHei/ICU:script=latn;language=DFLT;" at 4.0pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 136.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [2
+
+]
+Requested font "[lmroman5-regular]:mapping=tex-text" at 5.0pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman5-regular.otf
+Requested font "cmex7" at 5.0pt
+ -> cmex7
+Requested font "msam5" at 5.0pt
+ -> msam5
+Requested font "msbm5" at 5.0pt
+ -> msbm5
+Requested font "cmbx5" at 5.0pt
+ -> cmbx5
+Requested font "cmmib5" at 5.0pt
+ -> cmmib5
+Requested font "cmbsy5" at 5.0pt
+ -> cmbsy5
+Requested font "phvr8t" at 5.0pt
+ -> phvr8t
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 146.
+Requested font "phvro8t" at 5.0pt
+ -> phvro8t
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 146.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [3
+
+]
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 146.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [4
+
+]
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 146.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [5
+
+]
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 146.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [6
+
+]
+File: fig1.png Graphic file (type QTm)
+ <use  "fig1.png" >
+Requested font "phvr8t" at 12.0pt
+ -> phvr8t
+Requested font "Microsoft YaHei" at 12.0pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+Requested font "Microsoft YaHei/ICU" at 12.0pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'MicrosoftYaHei(0)' created for font 'Microsoft YaHei' with
+. options [BoldFont=SimHei].
+. 
+. This font family consists of the following shapes:
+.................................................
+Requested font "Microsoft YaHei/ICU:script=latn;language=DFLT;" at 12.0pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+Requested font "Microsoft YaHei" at 9.0pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+Requested font "Microsoft YaHei/ICU" at 9.0pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'MicrosoftYaHei(0)' created for font 'Microsoft YaHei' with
+. options [BoldFont=SimHei].
+. 
+. This font family consists of the following shapes:
+.................................................
+Requested font "Microsoft YaHei/ICU:script=latn;language=DFLT;" at 9.0pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 178.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [7
+
+]
+File: fig2.png Graphic file (type QTm)
+ <use  "fig2.png" >
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 178.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [8
+
+]
+File: fig3.png Graphic file (type QTm)
+ <use  "fig3.png" >
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 189.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [9
+
+]
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 200.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [10
+
+]
+File: fig4.png Graphic file (type QTm)
+ <use  "fig4.png" >
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 219.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [11
+
+]
+File: fig4-1a.png Graphic file (type QTm)
+ <use  "fig4-1a.png" >
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 235.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [12
+
+]
+File: fig4-1b.png Graphic file (type QTm)
+ <use  "fig4-1b.png" >
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 235.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [13
+
+]
+(H:\bachelorDocumentPackageForHust\bachelorBeamer\beamer.vrb
+(C:\CTEX\UserData\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+Requested font "Source Code Pro/ICU:script=latn;language=DFLT;" at 10.95pt
+ -> C:/WINDOWS/Fonts/SourceCodePro-Regular_0.otf
+Requested font "Source Code Pro/ICU:script=latn;language=DFLT;" at 8.0pt
+ -> C:/WINDOWS/Fonts/SourceCodePro-Regular_0.otf
+Requested font "Source Code Pro/ICU:script=latn;language=DFLT;" at 6.0pt
+ -> C:/WINDOWS/Fonts/SourceCodePro-Regular_0.otf
+)
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 258.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [14
+
+]
+File: fig3.png Graphic file (type QTm)
+ <use  "fig3.png" >
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 264.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [15
+
+]
+File: fig6.png Graphic file (type QTm)
+ <use  "fig6.png" >
+Requested font "Microsoft YaHei" at 10.0pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+Requested font "Microsoft YaHei/ICU" at 10.0pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'MicrosoftYaHei(0)' created for font 'Microsoft YaHei' with
+. options [BoldFont=SimHei].
+. 
+. This font family consists of the following shapes:
+.................................................
+Requested font "Microsoft YaHei/ICU:script=latn;language=DFLT;" at 10.0pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 272.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [16
+
+]
+File: fig5.png Graphic file (type QTm)
+ <use  "fig5.png" >
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 292.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [17
+
+]
+(H:\bachelorDocumentPackageForHust\bachelorBeamer\beamer.vrb)
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 311.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [18
+
+]
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 321.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [19
+
+]
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 321.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [20
+
+]
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 353.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [21
+
+]
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 353.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [22
+
+]
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 353.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [23
+
+]
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 353.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [24
+
+]
+File: fig7.png Graphic file (type QTm)
+ <use  "fig7.png" >
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 359.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [25
+
+]
+(H:\bachelorDocumentPackageForHust\bachelorBeamer\beamer.vrb)
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 376.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [26
+
+]
+(H:\bachelorDocumentPackageForHust\bachelorBeamer\beamer.vrb)
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 393.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [27
+
+]
+
+Package hyperref Warning: Ignoring empty anchor on input line 417.
+
+Requested font "phvr8t" at 6.5pt
+ -> phvr8t
+LaTeX Font Info:    Calculating math sizes for size <6.5> on input line 417.
+Requested font "[lmroman7-regular]:mapping=tex-text" at 6.5pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman7-regular.otf
+Requested font "[lmroman5-regular]:mapping=tex-text" at 4.54997pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman5-regular.otf
+Requested font "[lmroman5-regular]:mapping=tex-text" at 3.25pt
+ -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman5-regular.otf
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <6.5> not available
+(Font)              size <6> substituted on input line 417.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.54997> not available
+(Font)              size <5> substituted on input line 417.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <3.25> not available
+(Font)              size <5> substituted on input line 417.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 417.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.54997> not available
+(Font)              size <5> substituted on input line 417.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <3.25> not available
+(Font)              size <5> substituted on input line 417.
+
+Requested font "cmex7" at 6.5pt
+ -> cmex7
+Requested font "cmex7" at 4.54997pt
+ -> cmex7
+Requested font "cmex7" at 3.25pt
+ -> cmex7
+Requested font "msam7" at 6.5pt
+ -> msam7
+Requested font "msam5" at 4.54997pt
+ -> msam5
+Requested font "msam5" at 3.25pt
+ -> msam5
+Requested font "msbm7" at 6.5pt
+ -> msbm7
+Requested font "msbm5" at 4.54997pt
+ -> msbm5
+Requested font "msbm5" at 3.25pt
+ -> msbm5
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 417.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <4.54997> not available
+(Font)              size <5> substituted on input line 417.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <3.25> not available
+(Font)              size <5> substituted on input line 417.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <6.5> not available
+(Font)              size <6> substituted on input line 417.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <4.54997> not available
+(Font)              size <5> substituted on input line 417.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <3.25> not available
+(Font)              size <5> substituted on input line 417.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 417.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <4.54997> not available
+(Font)              size <5> substituted on input line 417.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <3.25> not available
+(Font)              size <5> substituted on input line 417.
+
+Requested font "phvr8t" at 4.54997pt
+ -> phvr8t
+Requested font "phvr8t" at 3.25pt
+ -> phvr8t
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6.5> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 417.
+Requested font "phvro8t" at 6.5pt
+ -> phvro8t
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <4.54997> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 417.
+Requested font "phvro8t" at 4.54997pt
+ -> phvro8t
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <3.25> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 417.
+Requested font "phvro8t" at 3.25pt
+ -> phvro8t
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 417.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.54997> not available
+(Font)              size <5> substituted on input line 417.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <3.25> not available
+(Font)              size <5> substituted on input line 417.
+
+Requested font "Microsoft YaHei" at 6.5pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+Requested font "Microsoft YaHei/ICU" at 6.5pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'MicrosoftYaHei(0)' created for font 'Microsoft YaHei' with
+. options [BoldFont=SimHei].
+. 
+. This font family consists of the following shapes:
+.................................................
+Requested font "Microsoft YaHei/ICU:script=latn;language=DFLT;" at 6.5pt
+ -> C:/WINDOWS/Fonts/msyh.ttc
+
+Overfull \hbox (3.83041pt too wide) in paragraph at lines 417--417
+[]\T1/phv/m/n/6.5 Se(%)| 
+ []
+
+
+Overfull \hbox (1.26787pt too wide) in paragraph at lines 417--417
+[]\T1/phv/m/n/6.5 98.8| 
+ []
+
+
+Overfull \hbox (1.26787pt too wide) in paragraph at lines 417--417
+[]\T1/phv/m/n/6.5 98.6| 
+ []
+
+
+Overfull \hbox (3.46646pt too wide) in paragraph at lines 417--417
+[]\T1/phv/m/n/6.5 Ac(%)| 
+ []
+
+
+Overfull \hbox (1.26787pt too wide) in paragraph at lines 417--417
+[]\T1/phv/m/n/6.5 98.8| 
+ []
+
+
+Overfull \hbox (1.26787pt too wide) in paragraph at lines 417--417
+[]\T1/phv/m/n/6.5 98.6| 
+ []
+
+
+Overfull \hbox (7.4248pt too wide) in paragraph at lines 417--417
+ [] 
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 417.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [28
+
+]
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+LaTeX Warning: File `AAUgraphics/aau_logo_new_circle.png' not found on input li
+ne 427.
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type QTm)
+<use  "AAUgraphics/aau_logo_new_circle.png" > [29
+
+]
+File: pics/aau_logo_new.png Graphic file (type QTm)
+
+<use  "pics/aau_logo_new.png" >
+File: AAUgraphics/aau_waves.pdf Graphic file (type QTm)
+ <use  "AAUgraphics/aau_waves.pdf" > [30
+
+]
+\tf@nav=\write6
+\tf@toc=\write7
+\tf@snm=\write8
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 434.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 434.
+
+(H:\bachelorDocumentPackageForHust\bachelorBeamer\beamer.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 434.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 434.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.75pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 35952 strings out of 430478
+ 712712 string characters out of 3191502
+ 833306 words of memory out of 3000000
+ 38381 multiletter control sequences out of 15000+200000
+ 64475 words of font info for 152 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 53i,19n,79p,575b,1468s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on beamer.pdf (30 pages).

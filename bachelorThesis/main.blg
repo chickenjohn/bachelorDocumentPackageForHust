@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
+A level-1 auxiliary file: Titlepage/title.aux
+A level-1 auxiliary file: Titlepage/Warranty.aux
+A level-1 auxiliary file: Abstract_Chn.aux
+A level-1 auxiliary file: Abstract_Eng.aux
+A level-1 auxiliary file: Sect1/sect1.aux
+A level-1 auxiliary file: Sect2/sect2.aux
+A level-1 auxiliary file: Sect3/sect3.aux
+A level-1 auxiliary file: Sect4/sect4.aux
+A level-1 auxiliary file: Sect5/sect5.aux
+A level-1 auxiliary file: appendix/appendix1.aux
+The style file: gbt7714-2005.bst
+Database file #1: Ref.bib
+Warning--string name "aug" is undefined
+--line 10 of file Ref.bib
+Warning--string name "feb" is undefined
+--line 24 of file Ref.bib
+Warning--string name "mar" is undefined
+--line 61 of file Ref.bib
+Warning--string name "may" is undefined
+--line 75 of file Ref.bib
+Warning--string name "sep" is undefined
+--line 151 of file Ref.bib
+Warning--string name "sep" is undefined
+--line 170 of file Ref.bib
+Warning--Require year: idc_research_inc_smartphone_????
+Warning--Require citedate: idc_research_inc_smartphone_????
+Warning--Require year: statista_inc_android_????
+Warning--Require citedate: statista_inc_android_????
+Warning--Require booktitle: yaghmour_embedded_2013
+Warning--Require address: moreno_android_2012
+Warning--Require booktitle: _zhenduanxue_2013
+Warning--Require address: _zhenduanxue_2013
+Warning--Require address: tang_android_2015
+Warning--Require citedate: tang_android_2015
+Warning--Require citedate: lou_wireless_2013
+Warning--Require citedate: guo_ecg_2013
+Warning--Require booktitle: satija_simple_2015
+Warning--Require address: satija_simple_2015
+Warning--Require citedate: satija_simple_2015
+Warning--Require year: bluetooth_sig_inc_bluetooth_????
+Warning--Require citedate: bluetooth_sig_inc_bluetooth_????
+Warning--Require citedate: riku_mettsla_serial_2012
+Warning--Require year: google_inc_bluetooth|android_????
+Warning--Require citedate: google_inc_bluetooth|android_????
+Warning--Require year: the_sqlite_development_team_about_????
+Warning--Require citedate: the_sqlite_development_team_about_????
+Warning--Require address: _4.0android_2013
+Warning--Require address: clifford_signal_2002
+Warning--Require citedate: clifford_signal_2002
+Warning--Require citedate: sadhukhan_r-peak_2012
+Warning--Require citedate: goldberger_physiobank_2000
+Warning--Require citedate: moody_impact_2001
+Warning--Require year: department_of_statistics_online_programs_sensitivity_????
+Warning--Require citedate: department_of_statistics_online_programs_sensitivity_????
+(There were 36 warnings)

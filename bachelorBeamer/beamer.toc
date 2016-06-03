@@ -1,0 +1,17 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@sectionintoc {1}{研究背景}{3}{0}{1}
+\beamer@sectionintoc {2}{研究成果}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{显示方法的改进}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{R峰检测算法}{10}{0}{2}
+\beamer@sectionintoc {3}{应用实现}{11}{0}{3}
+\beamer@subsectionintoc {3}{1}{显示模块}{12}{0}{3}
+\beamer@subsectionintoc {3}{2}{蓝牙传输模块}{16}{0}{3}
+\beamer@subsectionintoc {3}{3}{数据库管理模块}{17}{0}{3}
+\beamer@subsectionintoc {3}{4}{数据分析模块}{19}{0}{3}
+\beamer@sectionintoc {4}{算法实现}{21}{0}{4}
+\beamer@subsectionintoc {4}{1}{滑动窗口最大值算法}{21}{0}{4}
+\beamer@subsectionintoc {4}{2}{算法的Java实现}{26}{0}{4}
+\beamer@sectionintoc {5}{测试与结论}{28}{0}{5}
+\beamer@subsectionintoc {5}{1}{对R峰检测算法的测试}{28}{0}{5}
+\beamer@subsectionintoc {5}{2}{应用程序的特点}{29}{0}{5}

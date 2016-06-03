@@ -1,0 +1,70 @@
+\begin{thebibliography}{10}
+
+\bibitem{IDCStatic}
+IDC~Research Inc.
+\newblock Smartphone os market share, 2015 q2.
+\newblock \url{http://www.idc.com/prodserv/smartphone-os-market-share.jsp#}.
+
+\bibitem{StatistaStatic}
+Statista Inc.
+\newblock Android version market share 2015.
+\newblock
+  \url{http://www.statista.com/statistics/271774/share-of-android-platforms-on-mobile-devices-with-android-os/}.
+
+\bibitem{moreno}
+Marco~Antonio Moreno.
+\newblock An android hosted bluetooth ecg monitoring device.
+\newblock Master's thesis, University of Texas at Austin, 2012.
+
+\bibitem{xiaojintang}
+Xiaojing Tang, Chao Hu, and Weixing Lin.
+\newblock Android bluetooth multi-source signal acquisition for multi-parameter
+  health monitoring devices.
+\newblock In {\em Information and Automation, 2015 IEEE International
+  Conference on}, pages 1790--1794, Aug 2015.
+
+\bibitem{dongdonglou}
+Dongdong Lou, Xianxiang Chen, Zhan Zhao, Yundong Xuan, Zhihong Xu, Huan Jin,
+  Xingzu Guo, and Zhen Fang.
+\newblock A wireless health monitoring system based on android operating
+  system.
+\newblock {\em \{IERI\} Procedia}, 4:208 -- 215, 2013.
+\newblock 2013 International Conference on Electronic Engineering and Computer
+  Science (EECS 2013).
+
+\bibitem{xiaoqiangguo}
+Xiaoqiang Guo, Xiaohui Duan, Hongqiao Gao, Anpeng Huang, and Bingli Jiao.
+\newblock An ecg monitoring and alarming system based on android smart phone.
+\newblock {\em Communications and Network}, 05, 2013.
+
+\bibitem{chudacek}
+V.~Chudáček, L.~Zach, J.~Kužílek, J.~Spilka, and L.~Lhotská.
+\newblock Simple scoring system for ecg quality assessment on android platform.
+\newblock In {\em Computing in Cardiology, 2011}, pages 449--451, Sept 2011.
+
+\bibitem{classification}
+U.~Satija, B.~Ramkumar, and M.~S. Manikandan.
+\newblock A simple method for detection and classification of ecg noises for
+  wearable ecg monitoring devices.
+\newblock In {\em Signal Processing and Integrated Networks (SPIN), 2015 2nd
+  International Conference on}, pages 164--169, Feb 2015.
+
+\bibitem{julien}
+J.~Oster, J.~Behar, R.~Colloca, Qichen Li, Qiao Li, and G.~D. Clifford.
+\newblock Open source java-based ecg analysis software and android app for
+  atrial fibrillation screening.
+\newblock In {\em Computing in Cardiology Conference (CinC), 2013}, pages
+  731--734, Sept 2013.
+
+\bibitem{androidbt}
+Google Inc.
+\newblock Bluetooth|android developers.
+\newblock
+  \url{http://developer.android.com/guide/topics/connectivity/bluetooth.html}.
+
+\bibitem{Diag}
+卢雪峰 ，万学红.
+\newblock {\em 诊断学(第八版)}.
+\newblock 人民卫生出版社, 3 2013.
+
+\end{thebibliography}

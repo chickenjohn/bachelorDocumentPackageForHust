@@ -1,0 +1,23 @@
+\setcounter{page}{1}
+\xiaosihao
+
+\section{相关研究简介}
+\subsection{Android平台及ECG监测简介}
+目前，基于Android系统的智能设备已经广泛普及\cite{IDCStatic}\cite{StatistaStatic}，其内嵌的蓝牙（Bluetooth）通信模块、无线局域网模块（Wireless LAN, WLAN）和进场通信模块（Near Field Communication, NFC）等设备保证了和其他各类设备的近距离交流，而其普遍高于一般微控制器嵌入式设备的处理性能也保证了Android平台进行较为复杂运算的能力。同时，经过多年发展，Android平台已经允许开发者方便地通过各类应用程序接口（Application Programming Interface, API）对智能设备的软硬件进行控制。通过Android平台，人们已经实现了对家用电器，个人电脑，显示器等设备的简单控制。基于其较为强大的运算能力，一些简单数据处理应用（如个人文档处理，面部识别，语音识别等）也选择借助Android平台实现。
+同时，由于近年来移动终端计算能力的提高，医学设备的小型化、便携化程度逐渐提高。更加轻便的医学设备既方便了治疗时的检测，也方便了未经医学训练的普通人对自己身体状况的关注，在体育运动领域也体现出了潜在的应用价值\cite{moreno}。在各类受监测的体征指标中，心电图（Electrocardiograph, ECG）能够提供如心率等主要的人体指标，也有助于对心脏疾病类型的判断和对应治疗。由于ECG监测仪器要求使用者长时间佩戴，因此便携性成为该类监测设备的发展方向之一。目前，在具备了一定的数据处理能力后，便携式ECG监测设备能够实时地对ECG信号进行预处理、去噪和分析，从而提供更加精确的测量、更加丰富的信息和更多的附属功能（如突发疾病预警等）。为了使被采集ECG数据的处理和传递更加方便，利用智能手机平台是很自然的想法。已有研究证实了在Android智能设备平台上收集ECG等医疗数据的可行性，一些适用于Android平台的ECG信号处理算法也在验证后提出并应用。基于此，一些研究提出了专门处理ECG数据的Android平台应用这一构想。
+
+\subsection{相关研究现状}
+
+已有研究主要着眼于两方面：基于Android平台ECG监测应用的开发，以及Android平台对ECG信号的处理算法。
+
+在ECG监测应用开发方面，利用Android智能设备的蓝牙设备与ECG设备连接来获取数据、再加以处理，最后在Android端绘制波形的方案成为了相关研究的普遍选择。Android蓝牙连接较为稳定\cite{xiaojintang}，同时Android平台使用蓝牙的方法也较为简单，这或许是该方案广受欢迎的原因。多数研究实现了Android应用的ECG信号显示\cite{moreno} \cite{dongdonglou} \cite{xiaoqiangguo}，一些研究实现了基于ECG信号分析的预警功能\cite{xiaoqiangguo}。部分研究实现了利用Android智能手机通过移动网络实时传递ECG图像的功能，辅助医师进行紧急治疗\cite{dongdonglou}\cite{xiaoqiangguo}。同时也有针对配套的ECG信号监测设备的研究，从硬件层面消除ECG信号中噪声和伪影的干扰\cite{moreno}。
+
+Android平台ECG信号处理方面的研究主要着眼于对信号的分析和噪声消除。已有研究提出了Android平台ECG信号的质量评估方法\cite{chudacek}，以及适用于可穿戴设备的ECG信号噪声分类方法\cite{classification}。同时在ECG信号处理算法（如波峰检测和波形异常检测）方面也取得了一些成果\cite{julien}。对于ECG信号传输时的格式，部分研究提出了适合蓝牙传输的ECG信号格式，并与其它医疗信息格式共同构成用于传递医疗数据的协议\cite{xiaojintang} \cite{dongdonglou}。
+
+\subsection{相关研究的不足}
+
+大部分有关ECG监测应用中，ECG波形在小尺寸屏幕（比如大多数Android智能手机）上的显示不尽人意。由于手机屏幕无法完全显示标准的ECG波形信号，大部分现有研究均选择了等比例缩小ECG波形后显示。这样一来，ECG波形的细节就无法方便观察。同时，大部分研究在显示ECG波形时模拟了ECG定走纸的样式，这妨碍了数据的快速读取。
+
+同时，现有的算法着重解决某些疾病的自动检测及预警问题，已经能够有效检测出某些特定的异常情况。另一些算法着重于实现移动设备或可穿戴设备上ECG信号的质量检测以及噪声消除\cite{classification}。但是现有的ECG监测应用并没有很好地将ECG信号的重要特征提取并表示出来，而是在后台获取ECG特征后判断是否需要发出预警。造成的结果是对于临床应用来说，现有ECG监测应用的并不能有效地减少医护人员在分析ECG信号时的负担。
+
+

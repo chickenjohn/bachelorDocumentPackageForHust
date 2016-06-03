@@ -1,0 +1,10 @@
+\BOOKMARK [1][]{section.1}{1 简介}{}% 1
+\BOOKMARK [2][]{subsection.1.1}{A 对ECG信号质量评估方法的回顾}{section.1}% 2
+\BOOKMARK [2][]{subsection.1.2}{B 现有SQA方法的局限性}{section.1}% 3
+\BOOKMARK [2][]{subsection.1.3}{C 本文的贡献}{section.1}% 4
+\BOOKMARK [1][]{section.2}{2 ECG噪声检测与分类方法}{}% 5
+\BOOKMARK [2][]{subsection.2.1}{A 信号抑制和噪声增强}{section.2}% 6
+\BOOKMARK [2][]{subsection.2.2}{B 特征提取}{section.2}% 7
+\BOOKMARK [1][]{section.3}{3 结果与讨论}{}% 8
+\BOOKMARK [1][]{section.4}{4 结论}{}% 9
+\BOOKMARK [1][]{section.4}{参考文献}{}% 10

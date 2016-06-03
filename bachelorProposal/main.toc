@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}结构}{4}{section.1}
+\contentsline {subsection}{\numberline {1.1}enumerate环境}{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}itemize环境}{4}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}aaaa}{4}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}bbbb}{4}{subsubsection.1.2.2}
+\contentsline {subsection}{\numberline {1.3}引用与参考文献}{5}{subsection.1.3}
+\contentsline {section}{\numberline {2}公式}{6}{section.2}
+\contentsline {subsection}{\numberline {2.1}行内公式}{6}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}行间公式}{6}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}矩阵}{6}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}公式换行对齐}{6}{subsubsection.2.2.2}
+\contentsline {section}{\numberline {3}插图}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}并排插多图}{7}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}一幅图多个子图}{7}{subsection.3.2}
+\contentsline {section}{\numberline {4}表格}{9}{section.4}
+\contentsline {section}{参考文献}{10}{table.1}
+\contentsline {section}{附录}{10}{table.1}

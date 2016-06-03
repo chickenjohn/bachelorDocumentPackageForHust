@@ -1,0 +1,335 @@
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2016.4.28)  3 JUN 2016 11:55
+entering extended mode
+**title.tex
+(H:\bachelorDocumentPackageForHust\bachelorTask\Titlepage\title.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \begin{center}
+                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--2
+[] 
+ []
+
+! Undefined control sequence.
+l.5 \includegraphics
+                    [scale=1.3]{univ-title.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+! Undefined control sequence.
+<recently read> \erhao 
+                       
+l.7 \erhao
+          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9 \zhongsong
+               \textbf{本科生毕业设计（论文）任务书\\}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Requested font "cmbx10" at 10.0pt
+ -> cmbx10
+Missing character: There is no 本 in font cmbx10!
+Missing character: There is no 科 in font cmbx10!
+Missing character: There is no 生 in font cmbx10!
+Missing character: There is no 毕 in font cmbx10!
+Missing character: There is no 业 in font cmbx10!
+Missing character: There is no 设 in font cmbx10!
+Missing character: There is no 计 in font cmbx10!
+Missing character: There is no （ in font cmbx10!
+Missing character: There is no 论 in font cmbx10!
+Missing character: There is no 文 in font cmbx10!
+Missing character: There is no ） in font cmbx10!
+Missing character: There is no 任 in font cmbx10!
+Missing character: There is no 务 in font cmbx10!
+Missing character: There is no 书 in font cmbx10!
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15.75> not available
+(Font)              size <14.4> substituted on input line 11.
+
+Requested font "cmr12" at 14.4pt
+ -> cmr12
+Missing character: There is no 题 in font cmr12!
+Missing character: There is no 目 in font cmr12!
+Missing character: There is no ： in font cmr12!
+Missing character: There is no 基 in font cmr12!
+Missing character: There is no 于 in font cmr12!
+Missing character: There is no 的 in font cmr12!
+Missing character: There is no 信 in font cmr12!
+Missing character: There is no 号 in font cmr12!
+Missing character: There is no 监 in font cmr12!
+Missing character: There is no 测 in font cmr12!
+Missing character: There is no 与 in font cmr12!
+Missing character: There is no 记 in font cmr12!
+Missing character: There is no 录 in font cmr12!
+Missing character: There is no 应 in font cmr12!
+Missing character: There is no 用 in font cmr12!
+Missing character: There is no 程 in font cmr12!
+Missing character: There is no 序 in font cmr12!
+Missing character: There is no 实 in font cmr12!
+Missing character: There is no 现 in font cmr12!
+
+Overfull \hbox (81.35905pt too wide) in paragraph at lines 12--12
+ []\OT1/cmr/m/n/14.4 AndroidECG 
+ []
+
+Requested font "cmr12" at 12.0pt
+ -> cmr12
+Missing character: There is no （ in font cmr12!
+Missing character: There is no 任 in font cmr12!
+Missing character: There is no 务 in font cmr12!
+Missing character: There is no 起 in font cmr12!
+Missing character: There is no 止 in font cmr12!
+Missing character: There is no 日 in font cmr12!
+Missing character: There is no 期 in font cmr12!
+Missing character: There is no ： in font cmr12!
+Missing character: There is no 年 in font cmr12!
+Missing character: There is no 月 in font cmr12!
+Missing character: There is no 日 in font cmr12!
+Missing character: There is no ～ in font cmr12!
+Missing character: There is no 年 in font cmr12!
+Missing character: There is no 月 in font cmr12!
+Missing character: There is no 日 in font cmr12!
+Missing character: There is no ） in font cmr12!
+
+Overfull \hbox (103.13782pt too wide) in paragraph at lines 14--14
+ []\OT1/cmr/m/n/12 2016    2222016    612 
+ []
+
+! Undefined control sequence.
+l.17 \zhongsong
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 院 in font cmr12!
+Missing character: There is no 系 in font cmr12!
+Missing character: There is no ： in font cmr12!
+LaTeX Font Info:    Calculating math sizes for size <15.75> on input line 18.
+Requested font "cmr10" at 10.95pt
+ -> cmr10
+Requested font "cmr8" at 8.0pt
+ -> cmr8
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <15.75> not available
+(Font)              size <14.4> substituted on input line 18.
+
+Requested font "cmmi12" at 14.4pt
+ -> cmmi12
+Requested font "cmmi10" at 10.95pt
+ -> cmmi10
+Requested font "cmmi8" at 8.0pt
+ -> cmmi8
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <15.75> not available
+(Font)              size <14.4> substituted on input line 18.
+
+Requested font "cmsy10" at 14.4pt
+ -> cmsy10
+Requested font "cmsy10" at 10.95pt
+ -> cmsy10
+Requested font "cmsy8" at 8.0pt
+ -> cmsy8
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <15.75> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <11.02495> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7.875> on input line 18.
+Missing character: There is no 光 in font cmr12!
+Missing character: There is no 学 in font cmr12!
+Missing character: There is no 与 in font cmr12!
+Missing character: There is no 电 in font cmr12!
+Missing character: There is no 子 in font cmr12!
+Missing character: There is no 信 in font cmr12!
+Missing character: There is no 息 in font cmr12!
+Missing character: There is no 学 in font cmr12!
+Missing character: There is no 院 in font cmr12!
+
+Overfull \hbox (89.2989pt too wide) in paragraph at lines 18--18
+ []$ 
+ []
+
+Missing character: There is no 专 in font cmr12!
+Missing character: There is no 业 in font cmr12!
+Missing character: There is no 班 in font cmr12!
+Missing character: There is no 级 in font cmr12!
+Missing character: There is no ： in font cmr12!
+Missing character: There is no 在 in font cmr12!
+Missing character: There is no 这 in font cmr12!
+Missing character: There is no 里 in font cmr12!
+Missing character: There is no 写 in font cmr12!
+Missing character: There is no 下 in font cmr12!
+Missing character: There is no 你 in font cmr12!
+Missing character: There is no 的 in font cmr12!
+Missing character: There is no 专 in font cmr12!
+Missing character: There is no 业 in font cmr12!
+Missing character: There is no 名 in font cmr12!
+Missing character: There is no 称 in font cmr12!
+Missing character: There is no 和 in font cmr12!
+Missing character: There is no 班 in font cmr12!
+Missing character: There is no 级 in font cmr12!
+Missing character: There is no 号 in font cmr12!
+Missing character: There is no 姓 in font cmr12!
+Missing character: There is no 名 in font cmr12!
+Missing character: There is no ： in font cmr12!
+Missing character: There is no 某 in font cmr12!
+Missing character: There is no 某 in font cmr12!
+Missing character: There is no 某 in font cmr12!
+
+Overfull \hbox (190.34761pt too wide) in paragraph at lines 20--20
+ []$ 
+ []
+
+Missing character: There is no 学 in font cmr12!
+Missing character: There is no 号 in font cmr12!
+Missing character: There is no ： in font cmr12!
+
+Overfull \hbox (229.11716pt too wide) in paragraph at lines 21--21
+ []$ 
+ []
+
+Missing character: There is no 指 in font cmr12!
+Missing character: There is no 导 in font cmr12!
+Missing character: There is no 教 in font cmr12!
+Missing character: There is no 师 in font cmr12!
+Missing character: There is no ： in font cmr12!
+Missing character: There is no 某 in font cmr12!
+Missing character: There is no 某 in font cmr12!
+Missing character: There is no 某 in font cmr12!
+
+Overfull \hbox (190.34761pt too wide) in paragraph at lines 22--22
+ []$[]$ 
+ []
+
+Missing character: There is no 教 in font cmr12!
+Missing character: There is no 研 in font cmr12!
+Missing character: There is no 室 in font cmr12!
+Missing character: There is no （ in font cmr12!
+Missing character: There is no 系 in font cmr12!
+Missing character: There is no 、 in font cmr12!
+Missing character: There is no 所 in font cmr12!
+Missing character: There is no ） in font cmr12!
+Missing character: There is no 负 in font cmr12!
+Missing character: There is no 责 in font cmr12!
+Missing character: There is no 人 in font cmr12!
+Missing character: There is no 年 in font cmr12!
+Missing character: There is no 月 in font cmr12!
+Missing character: There is no 日 in font cmr12!
+Missing character: There is no 审 in font cmr12!
+Missing character: There is no 查 in font cmr12!
+
+Overfull \hbox (137.86491pt too wide) in paragraph at lines 25--25
+ []$[]$\OT1/cmr/m/n/14.4 20            
+ []
+
+Missing character: There is no 院 in font cmr12!
+Missing character: There is no （ in font cmr12!
+Missing character: There is no 系 in font cmr12!
+Missing character: There is no ） in font cmr12!
+Missing character: There is no 负 in font cmr12!
+Missing character: There is no 责 in font cmr12!
+Missing character: There is no 人 in font cmr12!
+Missing character: There is no 年 in font cmr12!
+Missing character: There is no 月 in font cmr12!
+Missing character: There is no 日 in font cmr12!
+Missing character: There is no 批 in font cmr12!
+Missing character: There is no 准 in font cmr12!
+
+Overfull \hbox (216.19719pt too wide) in paragraph at lines 26--27
+ []$[]$\OT1/cmr/m/n/14.4 20             
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 \end{titlepage}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> title.tex
+             
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 38 strings out of 430478
+ 555 string characters out of 3191502
+ 45928 words of memory out of 3000000
+ 3263 multiletter control sequences out of 15000+200000
+ 6987 words of font info for 25 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 21i,4n,13p,100b,159s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.

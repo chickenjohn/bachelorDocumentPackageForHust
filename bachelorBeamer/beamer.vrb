@@ -1,0 +1,15 @@
+\frametitle{算法实现}\framesubtitle {滑动窗口最大值算法的Java实现}
+\begin{block}{数值向主线程的传递}
+\begin{center}
+\begin{lstlisting}[language=java]
+double RRinterval = (recentRpeak.getDataId() -lastRpeak.getDataId()) * EcgData.RECORDRATE;
+beatRate = 60 / RRinterval;
+lastRpeak = recentRpeak;
+Message uiRefreshMessage = Message.obtain();
+uiRefreshMessage.what = 3;
+uiRefreshMessage.arg1 = (int) beatRate;
+uiRefreshMessage.arg2 = (int) (RRinterval*100);
+uiRefreshHandler.sendMessage(uiRefreshMessage);
+\end{lstlisting}
+\end{center}
+\end{block}
