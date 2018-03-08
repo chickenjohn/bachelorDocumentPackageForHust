@@ -1,4 +1,6 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
 A level-1 auxiliary file: Titlepage/title.aux
 A level-1 auxiliary file: Titlepage/Warranty.aux
 A level-1 auxiliary file: Abstract_Chn.aux
@@ -10,6 +12,9 @@ A level-1 auxiliary file: Sect4/sect4.aux
 A level-1 auxiliary file: Sect5/sect5.aux
 A level-1 auxiliary file: appendix/appendix1.aux
 The style file: gbt7714-2005.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: Ref.bib
 Warning--string name "aug" is undefined
 --line 10 of file Ref.bib
@@ -53,4 +58,45 @@ Warning--Require citedate: goldberger_physiobank_2000
 Warning--Require citedate: moody_impact_2001
 Warning--Require year: department_of_statistics_online_programs_sensitivity_????
 Warning--Require citedate: department_of_statistics_online_programs_sensitivity_????
+You've used 21 entries,
+            3107 wiz_defined-function locations,
+            846 strings with 10716 characters,
+and the built_in function-call counts, 28622 in all, are:
+= -- 3061
+> -- 63
+< -- 147
++ -- 2443
+- -- 194
+* -- 880
+:= -- 3203
+add.period$ -- 0
+call.type$ -- 21
+change.case$ -- 80
+chr.to.int$ -- 3
+cite$ -- 51
+duplicate$ -- 3945
+empty$ -- 1111
+format.name$ -- 160
+if$ -- 7571
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 0
+newline$ -- 90
+num.names$ -- 23
+pop$ -- 415
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 263
+stack$ -- 0
+substring$ -- 3298
+swap$ -- 837
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 30
+while$ -- 383
+width$ -- 23
+write$ -- 305
 (There were 36 warnings)

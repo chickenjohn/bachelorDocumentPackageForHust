@@ -10,9 +10,9 @@
 % 2016-01
 %chickenjohn93@outlook.com
 
-\documentclass[12pt,a4paper]{article}
-\input{setup/package.tex}
-\input{setup/define.tex}
+\documentclass[12pt,a4paper]{ctexart}
+\input{Setup/package.tex}
+\input{Setup/define.tex}
 \begin{document}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%code support%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \lstset{basicstyle=\fontsize{10.5pt}{9pt}\selectfont,breaklines=true,numbers=left,numberstyle=\tiny,keywordstyle=\color{blue!70},commentstyle=\color{red!50!green!50!blue!50},frame=shadowbox, rulesepcolor=\color{red!20!green!20!blue!20},escapeinside=``,xleftmargin=2em,xrightmargin=2em, aboveskip=1em}
@@ -30,10 +30,11 @@
 \include{Sect2/sect2}
 \include{Sect3/sect3}
 \include{Sect4/sect4}
-\include{Sect5/sect5}%添加文件之后请去掉最前面的百分号
+\include{Sect5/sect5}
 \addcontentsline{toc}{section}{致~~谢}
 \include{appendix/appendix1}
 \newpage
+\setlength{\baselineskip}{-1em}
 \bibliographystyle{gbt7714-2005}
 %\bibliographystyle{plain}
 \addcontentsline{toc}{section}{参考文献}
