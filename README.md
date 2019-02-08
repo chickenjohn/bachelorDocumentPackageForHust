@@ -52,6 +52,3 @@ Thesis</td>
 3. 编译需要ctex支持。
 4. bibtex样式选用了[GBT7714-2005-BibTeX-Style ](https://github.com/Haixing-Hu/GBT7714-2005-BibTeX-Style)
 
-## 6 作者联系方式
-如有问题请联系作者chickenjohn：
-> [chickenjohn93@outlook.com](mailto:chickenjohn93@outlook.com)
